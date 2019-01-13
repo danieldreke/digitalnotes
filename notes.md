@@ -3,6 +3,7 @@
 - reminder: before doing [Wim Hof] drink raw cacao + banana + water
 - reminder: do [Wim Hof] in the morning with open windows at least 4x per week
 - reminder: do self created [SevenApp] workouts afterwards and enjoy released happy hormones :)
+- MANIFESTED: planed lower part of living room door, it is now CLOSEABLE --> YAY!
 
 ## Fri 11 Jan 2019
 - learning: before going swimming drink raw cacao + banana + water (optionally grinded magnesium pill)
