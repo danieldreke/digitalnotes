@@ -17,4 +17,4 @@
 - manifested: set up living room table by shortening table legs
 
 ## no date
-- `for img in *.png; do convert $img -resize 96 -quality 10 $img; done`
+- learning: #bash loop resizing `for img in *.png; do convert $img -resize 96 -quality 10 $img; done`
