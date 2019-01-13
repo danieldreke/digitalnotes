@@ -1,6 +1,7 @@
 ## Sun 13 Jan 2019
 - #learning #css make font-size depend on screen size via `@media screen and min-/max-width`
-- #learning #webdev embed youtube video with privacy enhanced mode, see [article](https://support.google.com/youtube/answer/171780?hl=en)
+- #learning #webdev embed youtube video with privacy enhanced mode, see [article](https://support.google.com/youtube/answer/171780?hl=en) `<iframe width="1440" height="762" src="https://www.youtube-nocookie.com/embed/7cjVj1ZyzyE"
+frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>`
 - #learning #css how to keep aspect ratio of an iframe via div-wrapper, see [article](https://fettblog.eu/blog/2013/06/16/preserving-aspect-ratio-for-embedded-iframes/)
 
 ## Sat 12 Jan 2019
