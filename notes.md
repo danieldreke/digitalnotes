@@ -1,3 +1,6 @@
+## Sun 13 Jan 2019
+- learning: CSS make font-size depend on screen size via `@media screen and min-/max-width`
+
 ## Sat 12 Jan 2019
 - learning: do not drink [Golden Milk] before [Meditation] (just warm water)
 - reminder: before doing [Wim Hof] drink raw cacao + banana + water
