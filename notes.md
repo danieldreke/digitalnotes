@@ -10,7 +10,7 @@ frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>`
 - #reminder do [Wim Hof] in the morning with open windows at least 4x per week
 - #reminder do self created [SevenApp] workouts afterwards and enjoy released happy hormones :)
 - #manifested #bigtime planed lower part of living room door, it is now CLOSEABLE --> YAY!
-- #learning #linux #bash list matches of pattern of specific files, see [stackoverflow](https://stackoverflow.com/a/16957078) `grep --include=\*.{css,md} --exclude-dir={_site} -rnw . -e "imgcontainer"`
+- #learning #linux #bash list matches of pattern of specific files, see [stackoverflow](https://stackoverflow.com/a/16957078) `grep --include=\*.{css,md} --exclude-dir=_site -rnw . -e "imgcontainer"`
 
 ## Fri 11 Jan 2019
 - #learning before going swimming drink raw cacao + banana + water (optionally grinded magnesium pill)
