@@ -4,6 +4,7 @@
 frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>`
 - #learning #css how to keep aspect ratio of an iframe via div-wrapper, see [article](https://fettblog.eu/blog/2013/06/16/preserving-aspect-ratio-for-embedded-iframes/)
 - #learning #webdev how well is a feature supported in current browsers, see [caniuse.com](https://caniuse.com) ([example](https://caniuse.com/#feat=viewport-units))
+- #learning #webdev how to use custom font like Ubuntu #linktogooglefonts, see [stackoverflow](https://stackoverflow.com/a/20818596)
 
 ## Sat 12 Jan 2019
 - #learning do not drink [Golden Milk] before [Meditation] (just warm water)
