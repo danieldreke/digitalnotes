@@ -1,3 +1,6 @@
+## Thu 17 Jan 2019
+- `#learning #coding #python #openpyxl load_workbook flag data_only (example: openpyxl.load_workbook(EXCELFILENAME, data_only=True))`
+
 ## Sun 13 Jan 2019
 - #learning #css make font-size depend on screen size via `@media screen and min-/max-width`
 - #learning #webdev embed youtube video with privacy enhanced mode, see [article](https://support.google.com/youtube/answer/171780?hl=en) `<iframe width="1440" height="762" src="https://www.youtube-nocookie.com/embed/7cjVj1ZyzyE"
