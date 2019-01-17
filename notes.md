@@ -1,5 +1,6 @@
 ## Thu 17 Jan 2019
 - `#learning #coding #python #openpyxl load_workbook flag data_only (example: openpyxl.load_workbook(EXCELFILENAME, data_only=True))`
+- #reminder #git #commit add changes to last commit via `git commit --amend -C HEAD`
 
 ## Sun 13 Jan 2019
 - #learning #css make font-size depend on screen size via `@media screen and min-/max-width`
