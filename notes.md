@@ -1,4 +1,5 @@
 ## Fri 18 Jan 2019
+- `ctrl-r` searching command from history ([srclink](https://linuxhint.com/bash_history_search/)) #linux #bash #history
 - `git log -p --all -S 'scrollbar'` shows when in which files lines with 'scrollbar' have been removed #git #css #webdev
 
 ## Thu 17 Jan 2019
