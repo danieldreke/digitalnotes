@@ -1,6 +1,6 @@
 ## Fri 18 Jan 2019
 - `ctrl-r` searching command from history ([srclink](https://linuxhint.com/bash_history_search/)) #linux #bash #history
-- `git log -p --all -S 'scrollbar'` shows when in which files lines with 'scrollbar' have been removed #git #css #webdev
+- `git log -p --all -S 'scrollbar'` shows commit dates and files in which lines with 'scrollbar' have been removed ([stackoverflow](https://stackoverflow.com/a/2839319)) #git #css #webdev
 
 ## Thu 17 Jan 2019
 - `#learning #coding #python #openpyxl load_workbook flag data_only (example: openpyxl.load_workbook(EXCELFILENAME, data_only=True))`
