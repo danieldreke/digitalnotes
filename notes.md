@@ -1,5 +1,5 @@
 ## Sun 20 Jan 2019
-- `a[href]:hover` set hover style only if href is given (!) #learning #css
+- `a[href]:hover` set hover style only if href is given (!) #learning #css #cssfeature #csssyntax
 
 ## Fri 18 Jan 2019
 - `ctrl-r` searching command from history ([srclink](https://linuxhint.com/bash_history_search/)) #linux #bash #history
