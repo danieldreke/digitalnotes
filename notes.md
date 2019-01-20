@@ -1,3 +1,6 @@
+## Sun 20 Jan 2019
+- `a[href]:hover` set hover style only if href is given (!) #learning #css
+
 ## Fri 18 Jan 2019
 - `ctrl-r` searching command from history ([srclink](https://linuxhint.com/bash_history_search/)) #linux #bash #history
 - `git log -p --all -S 'scrollbar'` shows commit dates and files in which lines with 'scrollbar' have been removed ([stackoverflow](https://stackoverflow.com/a/2839319)) #git #css #webdev
