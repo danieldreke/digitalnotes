@@ -14,4 +14,4 @@ set remote git repo (https)<br>
 add remote git repo from which it has been forked (ssh)<br>
 `git remote add origin git@github.com:hsh4you/hsh4you.github.io.git`
 
-git submodule foreach --recursive git checkout master
+    git submodule foreach --recursive git checkout master
