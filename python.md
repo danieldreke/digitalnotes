@@ -1,4 +1,4 @@
-    # remove a directory recursively including read-only files
+## remove a directory recursively including read-only files
     def remove_dir(dirpath):
         # source: https://stackoverflow.com/a/21263493
         def del_rw(action, name, exc):
