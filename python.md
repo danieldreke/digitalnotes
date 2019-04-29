@@ -23,7 +23,9 @@
     type 'calculator.add(operand1=2, operand2=3)' and press CTRL+1 -> select create method
       -> creates method add(...) in calculator.py
 
+    CTRL+1 for autocompletion/autocreation choices
     CTRL+F9 to run test(s)
+    SHIFT+ENTER to jump to new line
     CTRL+SPACE automatically adds import
     
 ## src/calc/calculator.py
