@@ -1,3 +1,6 @@
+## Module not found
+check if module's source folder is in PYTHONPATH
+
 ## Remove a directory recursively including read-only files
     #remove a directory recursively including read-only files
     def remove_dir(dirpath):
