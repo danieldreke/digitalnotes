@@ -1,5 +1,6 @@
 ## Module not found
-check if module's source folder is in PYTHONPATH
+* check if module's source folder is in PYTHONPATH
+* Eclipse > Project Properties > PyDev PYTHONPATH > Add source folder
 
 ## Remove a directory recursively including read-only files
     #remove a directory recursively including read-only files
