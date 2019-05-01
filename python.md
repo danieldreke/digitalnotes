@@ -32,8 +32,8 @@
     SHIFT+ENTER to jump to new line
     CTRL+SPACE automatically adds import
     
-## src/calc/calculator.py
-    # src/calc/calculator.py
+## calc/calculator.py
+    # calc/calculator.py
     class Calculator(object):
 
         def add(self, operand1, operand2):
@@ -44,8 +44,8 @@
             result = operand1 - operand2
             return result
 
-## src/calc/test/testcalc.py
-    # src/calc/test/testcalc.py
+## calc/test/testcalc.py
+    # calc/test/testcalc.py
     import unittest
     from calc.calculator import Calculator
 
