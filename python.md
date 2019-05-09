@@ -1,3 +1,6 @@
+## Mark directory as package
+add an empty file named __init__.py
+
 ## Module not found
 * check if module's source folder is in PYTHONPATH
 * Eclipse > Project Properties > PyDev PYTHONPATH > Add source folder
