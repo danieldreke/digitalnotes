@@ -1,4 +1,4 @@
-## Full path to directory executed file is contained in
+## Full path to directory of the script being run
     os.path.dirname(os.path.realpath(__file__))
 source: https://stackoverflow.com/a/5137509
 
