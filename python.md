@@ -1,3 +1,7 @@
+## Full path to directory executed file is contained in
+    os.path.dirname(os.path.realpath(__file__))
+source: https://stackoverflow.com/a/5137509
+
 ## Mark directory as package
 add an empty file named __init__.py
 
