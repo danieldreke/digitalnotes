@@ -1,3 +1,7 @@
+## Create directory including subdirectories
+    if not os.path.exists(targetdir):
+        os.makedirs(targetdir)
+
 ## Full path to directory of the script being run
     os.path.dirname(os.path.realpath(__file__))
 source: https://stackoverflow.com/a/5137509
