@@ -1,3 +1,12 @@
+## Print htmlcode (python3)
+    import urllib.request
+    response = urllib.request.urlopen("http://www.python.org")
+    htmlcode_in_bytes = response.read()
+    htmlcode = htmlcode_in_bytes.decode("utf8")
+    response.close()
+    print(htmlcode)
+https://stackoverflow.com/a/30890016
+
 ## Create directory including subdirectories
     if not os.path.exists(targetdir):
         os.makedirs(targetdir)
