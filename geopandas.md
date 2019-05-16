@@ -1,3 +1,7 @@
+    # reproject to 3857 and/or Mercator
+    geodataframe.to_crs(epsg=3857)
+    geodataframe.to_crs({'proj': 'merc'})  # src: http://jonathansoma.com/lede/foundations-2017/classes/geopandas/mapping-with-geopandas/
+
     # copy column
     geodata_regions['plz'] = geodata_inputregions[['PLZ99']]
 
