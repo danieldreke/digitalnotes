@@ -1,5 +1,6 @@
 ## Mapshaper
-https://mapshaper.org/
+- https://mapshaper.org/
+- https://github.com/mbloch/mapshaper/wiki/Command-Reference
 
 ## Cut out rectangle
 Get coordinates by left-clicking twice + `CTRL-C`
