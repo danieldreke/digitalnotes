@@ -1,11 +1,10 @@
-## git commands
-show commit dates and files in which lines with 'scrollbar' have been removed
-
-    git log -p --all -S 'scrollbar'
-
 add changes to last commit with same commit message
     
     git commit --amend -C HEAD
+
+show commit dates and files in which lines with 'scrollbar' have been removed
+
+    git log -p --all -S 'scrollbar'
 
 set remote git repo (ssh)
   
@@ -22,8 +21,3 @@ add remote git repo from which it has been forked (ssh)
 checkout master of all submodules
   
     git submodule foreach --recursive git checkout master
-
-## .gitignore
-ignore dir and subdirs named __pycache__
-  
-    **/__pycache__/`
