@@ -1,12 +1,13 @@
-    # reproject to 3857 and/or Mercator
+## Reproject
     geodataframe.to_crs(epsg=3857)
     geodataframe.to_crs({'proj': 'merc'})  # src: http://jonathansoma.com/lede/foundations-2017/classes/geopandas/mapping-with-geopandas/
 
-    # copy column
+## Copy column
     geodata_regions['plz'] = geodata_inputregions[['PLZ99']]
 
-    # rename column - source: https://stackoverflow.com/a/30546734
+## Rename column
     geodata.columns = geodata.columns.str.replace('OLD','NEW')
+source: https://stackoverflow.com/a/30546734
 
-    # create shapely points from latitude-longitude coordinates
+## Create shapely points from latitude-longitude coordinates
     points = [shapely.geometry.Point(xy) for xy in zip(coords.lon, coords.lat)]
