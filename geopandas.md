@@ -1,6 +1,7 @@
 ## Reproject
     geodataframe.to_crs(epsg=3857)
-    geodataframe.to_crs({'proj': 'merc'})  # src: http://jonathansoma.com/lede/foundations-2017/classes/geopandas/mapping-with-geopandas/
+    geodataframe.to_crs({'proj': 'merc'})  
+source: http://jonathansoma.com/lede/foundations-2017/classes/geopandas/mapping-with-geopandas/
 
 ## Copy column
     geodata_regions['plz'] = geodata_inputregions[['PLZ99']]
