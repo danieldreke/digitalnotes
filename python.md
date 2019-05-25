@@ -11,12 +11,14 @@ https://stackoverflow.com/a/30890016
 
 ## Create directory including subdirectories
 ```python
+import os
 if not os.path.exists(targetdir):
     os.makedirs(targetdir)
 ```
 
 ## Full path to directory of the script being run
 ```python
+import os
 os.path.dirname(os.path.realpath(__file__))
 ```
 source: https://stackoverflow.com/a/5137509
@@ -30,11 +32,10 @@ add an empty file named `__init__.py`
 
 ## Remove a directory recursively including read-only files
 ```python
-#remove a directory recursively including read-only files
-def remove_dir(dirpath):
-    # source: https://stackoverflow.com/a/21263493
-    def del_rw(action, name, exc):
-        os.chmod(name, stat.S_IWRITE)
-        os.remove(name)
-    shutil.rmtree(dirpath, onerror=del_rw)
+import os
+def del_rw(action, name, exc):
+    os.chmod(name, stat.S_IWRITE)
+    os.remove(name)
+shutil.rmtree(dirpath, onerror=del_rw)
 ```
+source: https://stackoverflow.com/a/21263493
