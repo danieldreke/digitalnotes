@@ -1,6 +1,13 @@
 ### Add changes to last commit with same commit message
     
     git commit --amend -C HEAD
+    
+### Howto merge branch into wrongly modified master
+Case: Branch files have been manually copied to master instead of using merge
+1. Checkout master and revert actions of last commit as new commit
+1. Checkout branch and rebase on master
+1. Checkout master and merge with branch
+
 
 ### Show commit dates and files in which lines with 'scrollbar' have been removed
 
