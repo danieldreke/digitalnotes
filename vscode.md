@@ -1,3 +1,9 @@
+## Handling current working directory
+- `Open with Code` from directory of python file to be debugged/executed
+- Create `.env` file with `src` folder reference. Example: `project/src/foo/main.py`
+```
+PYTHONPATH = ../../src;${PYTHONPATH}
+```
 ## Add src to autocompletion
 Settings > Workspace > Extra Paths > `Edit in settings.json` (located in `${workspaceFolder}/.vs-code/`)
 
