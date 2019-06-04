@@ -1,4 +1,4 @@
-## Handling current working directory
+## Current working directory
 - `Open with Code` from directory of python file to be debugged/executed
 - Create `.env` file with `src` folder reference. Example: `project/src/foo/main.py`
 ```
