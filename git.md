@@ -2,6 +2,14 @@
     
     git commit --amend -C HEAD
     
+### Stop tracking changes
+Note: Each user will have to run it independently
+
+    git update-index --skip-worktree <file>
+    
+- https://stackoverflow.com/a/13631525
+- https://stackoverflow.com/a/40272289
+    
 ### Howto merge branch into wrongly modified master
 Case: Branch files have been manually copied to master instead of using merge
 1. Checkout master and revert actions of last commit as new commit
