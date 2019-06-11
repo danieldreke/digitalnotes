@@ -1,4 +1,4 @@
-### Add changes to last commit with same commit message
+### Add changes to last commit
     
     git commit --amend -C HEAD
     
