@@ -14,7 +14,8 @@ Note: Each user will have to run it independently
 
     git update-index --no-skip-worktree <file>   
 
-https://stackoverflow.com/a/13631525 (third comment by drdaeman)
+- https://stackoverflow.com/a/13631525 (third comment by drdaeman)
+- [https://git-scm.com/docs/git-update-index](https://git-scm.com/docs/git-update-index#Documentation/git-update-index.txt---no-skip-worktree)
     
 ### Howto merge branch into wrongly modified master
 Case: Branch files have been manually copied to master instead of using merge
