@@ -5,14 +5,14 @@
 ### Stop tracking changes
 Note: Each user will have to run it independently
 
-    git update-index --skip-worktree <file>
+    git update-index --skip-worktree <filename>
     
 - https://stackoverflow.com/a/13631525
 - https://stackoverflow.com/a/40272289
 
 ### Restart tracking changes
 
-    git update-index --no-skip-worktree <file>   
+    git update-index --no-skip-worktree <filename>   
 
 - https://stackoverflow.com/a/13631525 (third comment by drdaeman)
 - [https://git-scm.com/docs/git-update-index](https://git-scm.com/docs/git-update-index#Documentation/git-update-index.txt---no-skip-worktree)
