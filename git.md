@@ -9,6 +9,12 @@ Note: Each user will have to run it independently
     
 - https://stackoverflow.com/a/13631525
 - https://stackoverflow.com/a/40272289
+
+### Restart tracking changes
+
+    git update-index --no-skip-worktree <file>   
+
+https://stackoverflow.com/a/13631525 (third comment by drdaeman)
     
 ### Howto merge branch into wrongly modified master
 Case: Branch files have been manually copied to master instead of using merge
