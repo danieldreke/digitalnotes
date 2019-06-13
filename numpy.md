@@ -1,3 +1,6 @@
+## How to add items to a numpy array
+https://stackoverflow.com/a/5068182
+
 ## Sum row elements
     a.sum(axis=1)
     b = numpy.sum(a, axis=1)
