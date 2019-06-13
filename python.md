@@ -1,3 +1,20 @@
+## Exists file or directoy
+```python
+import os
+def exists(object_):
+    return os.path.exists(object_)
+```
+
+## Remove a file or directory
+```python
+import os
+def remove_object(targetobject, isdir):
+    if isdir:
+        remove_dir(targetobject)
+    else:
+        os.remove(targetobject)
+```
+
 ## Full path to directory of the script being run
 ```python
 import os
