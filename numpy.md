@@ -1,3 +1,11 @@
+## Save numpy array to file
+    numpy.save('filename.npy', numpyarray)
+source: https://www.numpy.org/devdocs/reference/generated/numpy.save.html
+
+## Load numpy array from file
+    numpyarray = numpy.load('filename.npy')
+source: https://www.geekmj.org/python/save-numpy-array-file-csv-npy-npz-892/
+
 ## How to add items to a numpy array
 https://stackoverflow.com/a/5068182
 
