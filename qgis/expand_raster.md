@@ -1,0 +1,21 @@
+## Expand raster including extent
+Example for expanding a 1000m x 1000m sized raster by 1000m
+- Open raster A with `QGIS`
+- `Raster > Conversion > Polygonize`
+- `Vector > Geoprocessing > Buffer`
+    - Input Layer: `Vectorized`
+    - Distance: `1000m`
+    - End cap style: `Square`
+    - Join Style: `Miter`
+- Remove Layer `Vectorized`
+- `Vector > Geoprocessing > Dissolve`
+    - Input Layer: `Buffered`
+- Remove Layer `Buffered`
+- `Raster A > Export > Save As`
+    - Filename: `A_expanded_1000m`
+    - Extent: `Calculate from Layer > Dissolved`
+- `Processing Toolbox > Shrink and expand`
+    - Grid: `A_expanded_1000m`
+    - Operation `Expand`
+    - Radius: `1`
+    - Method: `Mean`
