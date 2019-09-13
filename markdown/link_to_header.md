@@ -1,3 +1,4 @@
-[Link to header](#test-header)
+[Link to header](#header_with_spaces)
 
-## Test header
+## Header with spaces
+Link to header via `[Link to header](#header_with_spaces)`
