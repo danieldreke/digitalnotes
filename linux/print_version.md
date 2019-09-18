@@ -1,10 +1,10 @@
-### Print Version
+## Print Version
 
 ```
 cat /etc/*release*
 ```
 
-#### Example
+### Example
 
 ```bash
 xen@x1carbon ~ $ cat /etc/*release*
