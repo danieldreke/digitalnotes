@@ -3,3 +3,28 @@
 ```
 cat /etc/*release*
 ```
+
+#### Example
+
+```bash
+xen@x1carbon ~ $ cat /etc/*release*
+DISTRIB_ID=LinuxMint
+DISTRIB_RELEASE=18.1
+DISTRIB_CODENAME=serena
+DISTRIB_DESCRIPTION="Linux Mint 18.1 Serena"
+DISTRIB_ID=LinuxMint
+DISTRIB_RELEASE=18.1
+DISTRIB_CODENAME=serena
+DISTRIB_DESCRIPTION="Linux Mint 18.1 Serena"
+NAME="Linux Mint"
+VERSION="18.1 (Serena)"
+ID=linuxmint
+ID_LIKE=ubuntu
+PRETTY_NAME="Linux Mint 18.1"
+VERSION_ID="18.1"
+HOME_URL="http://www.linuxmint.com/"
+SUPPORT_URL="http://forums.linuxmint.com/"
+BUG_REPORT_URL="http://bugs.launchpad.net/linuxmint/"
+VERSION_CODENAME=serena
+UBUNTU_CODENAME=xenial
+```
