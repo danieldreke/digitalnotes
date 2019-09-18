@@ -1,4 +1,4 @@
-## Take Screenshot Continously
+## Take Screenshot Every Minute
 
 ### Install scrot
 
