@@ -6,9 +6,7 @@
 sudo apt-get install scrot
 ```
 
-### Terminal
-
-Take screenshot every minute
+### Command Line
 ``` 
 while true; do scrot -d 60 '%Y-%m-%d-%H:%M:%S.jpg' -e 'mv $f ~/screenshots/'; done
 ```
