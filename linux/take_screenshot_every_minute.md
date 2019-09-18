@@ -6,7 +6,7 @@
 sudo apt-get install scrot
 ```
 
-### Examples
+### Terminal
 
 Take screenshot every minute
 ``` 
