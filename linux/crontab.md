@@ -14,8 +14,6 @@ Plays `~/singing_bowl.wav` every 7 minutes.
 
 ### Links
 
-- https://corntab.com
+- [online crontab editor](https://corntab.com)
 - https://www.computerhope.com/unix/ucrontab.htm
-- http://cron.schlitt.info
-- https://www.cyberciti.biz/faq/crontab-every-10-min/
 - [Why crontab scripts are not working?](https://askubuntu.com/a/23438)
