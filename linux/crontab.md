@@ -1,10 +1,12 @@
 ## Crontab
 
+<!--
 ### Examples
 
     */7 * * * * play ~/singing_bowl.wav
     
 Plays `~/singing_bowl.wav` every 7 minutes.
+//-->
     
 <!--    
     * * * * * scrot -d 60 '\%Y-\%m-\%d-\%H:\%M:\%S.jpg' -e 'mv $f ~/screenshots/'
