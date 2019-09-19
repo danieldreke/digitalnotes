@@ -15,3 +15,4 @@ Plays `~/singing_bowl.wav` every 7 minutes.
 - https://corntab.com
 - https://www.computerhope.com/unix/ucrontab.htm
 - http://cron.schlitt.info
+- https://www.cyberciti.biz/faq/crontab-every-10-min/
