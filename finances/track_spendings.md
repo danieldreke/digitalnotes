@@ -5,7 +5,7 @@ Disadvantages of iOS App [Money Flow - Spending Tracker](https://apps.apple.com/
 - no webapp version
     - limited to slow two finger input
 - no recurring expenses
-    - interestingly implemented in [CashSync: Expense tracking](https://apps.apple.com/us/app/cashsync-expense-tracking/id617849961)
+    - interestingly implemented as reminders in [CashSync: Expense tracking](https://apps.apple.com/us/app/cashsync-expense-tracking/id617849961)
 
 ## Checked WebApps
 
