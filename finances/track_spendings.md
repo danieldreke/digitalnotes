@@ -7,6 +7,14 @@ Disadvantages of iOS App [Money Flow - Spending Tracker](https://apps.apple.com/
 - no recurring expenses
     - interestingly implemented as reminders in [CashSync: Expense tracking](https://apps.apple.com/us/app/cashsync-expense-tracking/id617849961)
 
+## Looking For
+
+- PhoneApp with
+    - Recurring Spendings
+    - WebApp with
+        - Import from CSV and JSON
+        - Export to CSV and JSON
+
 ## Checked WebApps
 
 - www.moneytracker.cc
