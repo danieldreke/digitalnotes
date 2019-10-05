@@ -1,3 +1,3 @@
 ## It requires 1% of global energy demand
-It's humans responsibility how gold is mined.
-It's humans responsibility how bitcoin is mined.
+How gold is mined is 100% humans responsibility.
+How bitcoin is mined is 100% humans responsibility.
