@@ -1,0 +1,1 @@
+https://text-compare.com
