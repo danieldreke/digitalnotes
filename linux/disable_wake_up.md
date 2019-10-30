@@ -1,4 +1,4 @@
-## Disable wakeup on mouse move
+## Disable wake up on mouse move
 
 1. List USB devices with waking up enabled
     - `grep . /sys/bus/usb/devices/*/power/wakeup | grep enabled`
