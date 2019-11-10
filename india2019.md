@@ -3,6 +3,8 @@
 - passport including visa
 - cash money
 - 2x credit card
+- birth certificates
+- single status certificate
 
 ## Technical
 - laptop
@@ -51,6 +53,7 @@
 - allergy spray
 
 ## Misc
+- Massage Oil
 - Dopper water bottle 0.5l
 - green book
 - blue book
