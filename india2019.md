@@ -38,6 +38,7 @@
 - tooth paste
 - miswak tooth brush
 - miswak salt
+- towel
 - 2x mini inderdental brush
 - 2x comb
 - nail scissor
