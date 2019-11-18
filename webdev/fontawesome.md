@@ -1,0 +1,4 @@
+- http://astronautweb.co/snippet/font-awesome/
+- https://www.w3schools.com/icons/fontawesome_icons_webapp.asp
+- https://www.kevinleary.net/font-awesome-unicode-icons-photoshop/
+- [Use font awesome icon as CSS content](https://stackoverflow.com/a/20782415)
