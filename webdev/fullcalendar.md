@@ -6,3 +6,6 @@
     tr.fc-list-item:hover td {
         background-color: inherit !important;
     }
+
+Q: How to find hover?<br>
+A: (Firefox) Inspect element -> Check `:hover`
