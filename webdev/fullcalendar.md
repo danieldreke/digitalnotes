@@ -9,3 +9,12 @@
 
 Q: How to find hover?<br>
 A: (Firefox) Inspect element -> Check `:hover`
+
+## No header
+    
+        header: { left: '', center: '', right: ''}
+        eventAfterAllRender: function(view) {
+            $('.fc-header-toolbar').remove();
+        }
+        
+source: https://fullcalendar.io/docs/header
