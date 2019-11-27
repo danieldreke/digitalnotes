@@ -46,6 +46,8 @@
 - handkerchiefs
 - hand desinfection gel
 - deo for flights
+- soap
+- shampoo
 (- razor/shaver + power supply)
 
 ## Medicine
