@@ -6,9 +6,11 @@
 1. Disable wake up on mouse move
     - `sudo su`
     - `echo disabled > /sys/bus/usb/devices/1-3/power/wakeup`
+      - replace `1-3` with listed number of grep command
 1. Disable wake up on mouse move permanently
     - `sudo crontab -e`
     - Add `@reboot echo disabled > /sys/bus/usb/devices/1-3/power/wakeup`
+      - replace `1-3` with listed number of grep command
 
 ### Sources
 
