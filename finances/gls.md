@@ -7,4 +7,4 @@
 
 #### ATM Opening Times
 - 6:30 - 22:30
-- cash to account takes 2-3 hrs (28.01.2020 16:00)
+- cash deposit takes 2-3 hrs (28.01.2020 16:00)
