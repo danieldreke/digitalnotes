@@ -1,11 +1,11 @@
 ## Daily Limit VISA Credit Card
-- 2x 600 EUR sent on same day via Transferwise => day limit >= 1200 EUR (Sat 01 Feb 2020)
+2x 600 EUR sent on same day via Transferwise. Daily Limit is at least 1200 EUR. (see Sat 01 Feb 2020)
 
 ## What Happens End of Month
 Money from checking account is automatically transferred to credit card account if balance is negative.
 
 ### Checking account cannot cover credit card balance
-Checking account debit will be used.
+Checking account debit will be used. (see Sat 01 Feb 2020)
 
 #### Example:
 - checking account: 200 EUR
