@@ -3,7 +3,7 @@
     git commit --amend -C HEAD
     
 ### Stop tracking changes
-Case: Default user config file
+Case: Default user config file<br>
 Note: Each user will have to run it independently
 
     git update-index --skip-worktree <filename>
