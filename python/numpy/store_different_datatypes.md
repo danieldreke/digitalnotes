@@ -1,6 +1,6 @@
-## Store different datatypes in one NumPy array    
+## Store different datatypes
 
-### fromarrays
+### Via fromarrays
 
     >>> a = numpy.array(['a', 'b', 'c', 'd', 'e'])
     >>> b = numpy.arange(5)
@@ -16,7 +16,7 @@
     
 https://stackoverflow.com/a/11310158
 
-### merge_arrays
+### Via merge_arrays
 
     >>> from numpy.lib import recfunctions as rfn
     >>> A = np.array([1, 2, 3])
