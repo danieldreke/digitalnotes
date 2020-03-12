@@ -14,7 +14,8 @@
     >>> records['data']
     array([0, 1, 2, 3, 4])
     
-https://stackoverflow.com/a/11310158
+- https://stackoverflow.com/a/11310158
+- https://github.com/numpy/numpy/blob/v1.17.0/numpy/core/records.py#L587-L647
 
 ### Via merge_arrays
 
