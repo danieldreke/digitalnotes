@@ -17,6 +17,8 @@
     parser = argparse.ArgumentParser()
     parser.add_argument('-l', type=int, nargs='+')
     print(vars(parser.parse_args('-l 0 1 2'.split(' '))))
+    
+- https://stackoverflow.com/a/15753721
 
 ### docopt
 - http://docopt.org/
