@@ -1,6 +1,7 @@
 ### Find string in current directory files (recursively)
-
-    grep -nr 'string' .
+```bash
+grep -nr 'string' .
+```
 <br>
 
     -n       Show relative line number in the file
