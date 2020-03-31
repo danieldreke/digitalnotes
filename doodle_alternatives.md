@@ -1,5 +1,8 @@
 https://alternativeto.net/software/doodle/
 
+### Calendly
+- https://calendly.com/
+
 ### Frameadate
 - https://alternativeto.net/software/framadate/
 - https://framadate.org/
