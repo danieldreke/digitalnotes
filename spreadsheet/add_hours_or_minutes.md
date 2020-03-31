@@ -1,3 +1,5 @@
+Tested with Excel, LibreOffice Calc and gnumeric
+
 ### hours
 
     = <cell_with_timestamp> + <hours> / 24
