@@ -1,4 +1,4 @@
-## Including files relative to another file
+## Include file relative to another file
 
      { % include_relative dir/filename % }
      
