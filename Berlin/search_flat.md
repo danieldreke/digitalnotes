@@ -10,6 +10,7 @@
 - close to organic stores
 - close to vegan restaurants
 - max 600 per month
+- balcony / terrasse / rooftop
 
 ### Yes
 - https://www.wg-gesucht.de/
