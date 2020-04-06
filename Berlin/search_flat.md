@@ -17,7 +17,6 @@
 
 ### Testing 
 - https://www.immobilienscout24.de
-- https://www.berlin.de/special/immobilien-und-wohnen/
 - https://www.immonet.de/wohnung-mieten.html
 - https://www.wohnungsboerse.net/Berlin/mieten/wohnungen
 - https://www.meinestadt.de/berlin/immobilien/wohnungen
@@ -25,3 +24,6 @@
 ### Nope
 - https://inberlinwohnen.de/suchergebnis/
   - > 95% WBS erforderlich
+- https://www.berlin.de/special/immobilien-und-wohnen/
+  - zu wenige Filter
+  - Kaltmiete
