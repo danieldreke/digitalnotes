@@ -19,9 +19,10 @@
 - https://www.immobilienscout24.de
 - https://www.immonet.de/wohnung-mieten.html
 - https://www.wohnungsboerse.net/Berlin/mieten/wohnungen
-- https://www.meinestadt.de/berlin/immobilien/wohnungen
 
 ### Nope
+- https://www.meinestadt.de/berlin/immobilien/wohnungen
+  - keine Stadtteile auswählbar
 - https://inberlinwohnen.de/suchergebnis/
   - > 95% WBS erforderlich
 - https://www.berlin.de/special/immobilien-und-wohnen/
