@@ -14,10 +14,11 @@
 
 ### Yes
 - https://www.wg-gesucht.de/
+- https://www.immonet.de/wohnung-mieten.html
+- https://www.immobilienscout24.de
+  - search area can be drawn!
 
 ### Testing 
-- https://www.immobilienscout24.de
-- https://www.immonet.de/wohnung-mieten.html
 - https://www.wohnungsboerse.net/Berlin/mieten/wohnungen
 
 ### Nope
