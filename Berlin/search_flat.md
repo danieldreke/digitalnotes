@@ -1,7 +1,6 @@
 ### What I am looking for
-- whole flat
-- moving in mid of April 2020
-- at least until October 2020
+- whole flat for unlimited duration
+- moving in mid of April 2020, latest end of june
 - close to nature / green surrounding
 - silent: sleep, meditation, calmness
 - good internet
