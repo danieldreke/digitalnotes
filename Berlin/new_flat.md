@@ -2,6 +2,8 @@
 - flat for unlimited duration
 - moving in mid of April 2020, latest end of june
 - close to nature / green surrounding
+  - Prenzlauer Berg / Friedrichshain -> Volkspark Friedrichshain
+  - Mitte / Tiergarten -> Tiergarten, Fritz-Schloss-Park
 - silent: sleep, meditation, calmness
 - good internet
 - very clean
