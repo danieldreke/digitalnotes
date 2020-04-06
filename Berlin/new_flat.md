@@ -1,5 +1,5 @@
-### What I am looking for
-- whole flat for unlimited duration
+### I am looking for
+- flat for unlimited duration
 - moving in mid of April 2020, latest end of june
 - close to nature / green surrounding
 - silent: sleep, meditation, calmness
