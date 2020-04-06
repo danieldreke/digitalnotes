@@ -1,7 +1,7 @@
 ### What I am looking for
 - whole flat
 - moving in mid of April 2020
-- at least 6 months / October
+- at least until October 2020
 - close to nature / green surrounding
 - silent: sleep, meditation, calmness
 - good internet
