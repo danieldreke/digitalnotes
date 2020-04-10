@@ -1,4 +1,4 @@
-### I am looking for
+### Manifesting new Flat
 - flat for unlimited duration
 - moving in mid of April 2020, latest end of june
 - close to nature / green surrounding
