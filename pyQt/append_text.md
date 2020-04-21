@@ -1,0 +1,1 @@
+    <qplaintextedit>.appendPlainText(text)
