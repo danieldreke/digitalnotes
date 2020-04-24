@@ -14,7 +14,7 @@ Example: [github.com ~ staticman.sample.yml](https://github.com/eduardoboucas/st
 ```html
 <form method="post" action="https://<instance>.herokuapp.com/v2/entry/<user>/<repo>/master/<dir>">
 ```
-Make sure that `<dir>` is the same as in `_config.yml` and top level field in `staticman.yml`
+Make sure that `<dir>` is the same as in `_config.yml` and top level field in `staticman.yml` ([more](https://github.com/eduardoboucas/staticman/issues/186))
 
 [staticman ~ Setting up a repository](https://github.com/eduardoboucas/staticman/#setting-up-a-repository)
 <!-- https://staticmaninstance.herokuapp.com/v2/connect/danieldreke/danieldreke.github.io -->
