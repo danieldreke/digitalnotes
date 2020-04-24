@@ -1,4 +1,4 @@
-1. Invite your bot to your repo
+1. Invite your bot to your repo via tab `Settings > Manage access > Invite a collaborator`
 1. Accept invitation via opening this page
     - `https://<instance>.herokuapp.com/v2/connect/<user>/<repo>`
 1. Response can take some seconds and should be `OK!`
