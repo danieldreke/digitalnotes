@@ -11,6 +11,8 @@
     # Install jekyll & co
     bundle install
     
+Maybe also `gem install github-pages` as liquid sort localhost behaviour differed from github pages, see [stackoverflow.com ~ jekyll & liquid: Sorted navigation works on github-pages but not on localhost](https://stackoverflow.com/a/20936565)
+    
 ### Run locally
     bundle exec jekyll serve
     
