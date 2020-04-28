@@ -1,0 +1,2 @@
+- [mademistakes.com ~ Going static part 2: static comments](https://mademistakes.com/articles/jekyll-static-comments/)
+- [github.com ~ Ajax form submit states](https://github.com/mmistakes/made-mistakes-jekyll/blob/30e10cce7836b38ea2d7f570573ac748fa7ba12e/_assets/javascripts/main.js#L128-L164)
