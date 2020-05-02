@@ -7,6 +7,6 @@ $(document).ready(function() {
   });
 });
 ```
-- [jsfiddle.net ~ Run snippet](https://jsfiddle.net/p0us8zew/)
+- [jsfiddle.net ~ Run snippet](https://jsfiddle.net/8h7naoju/)
 - [worldtimeapi.org](https://worldtimeapi.org/)
 - [lennu.net ~ jQuery Ajax Example with JSON Response](https://www.lennu.net/jquery-ajax-example-with-json-response/)
