@@ -7,7 +7,7 @@ var url = 'https://worldtimeapi.org/api/timezone/Europe/Berlin';
 $(document).ready(function(){
   $.ajax({url})
   .done(function(data) {
-    $('#timenow').html(data['datetime']);
+    $('#timenow').html(data['timezone'] + '<br>' + data['datetime']);
   });
 });
 </script>
