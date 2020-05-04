@@ -22,3 +22,14 @@ Console output
     Screenshot taken @ Sun Apr 5 16:42:53 CEST 2020
     Screenshot taken @ Sun Apr 5 16:43:53 CEST 2020
     ...
+
+### Create subdirectories for year-month and year-month-day
+
+    while true; do echo 'Screenshot taken @ '`date`; mkdir -p ~/screenshots/`date +%Y-%m`/`date +%Y-%m-%d`; scrot '%Y-%m-%d__%H:%M.jpg' -e 'mv $f ~/screenshots/`date +%Y-%m`/`date +%Y-%m-%d`'; sleep 60; done
+    
+folder structure
+
+    2020-04/
+        2020-04-01/
+        2020-04-02/
+        ...
