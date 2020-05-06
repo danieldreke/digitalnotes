@@ -1,0 +1,10 @@
+- https://github.com/danieldreke/matrixcode/
+- https://www.instagram.com/daniel.dreke/
+- https://twitter.com/danieldreke
+- https://github.com/danieldreke
+- https://open.spotify.com/user/danieldreke
+- https://www.paypal.me/DanielDreke
+- https://www.linkedin.com/in/daniel-dreke-5b14a47b/
+- https://www.xing.com/profile/Daniel_Dreke
+- https://www.facebook.com/daniel.dreke
+- https://www.last.fm/user/xenuhn
