@@ -11,7 +11,7 @@
   document.writeln(londontime);
 </script>
 ```
-**It is important to use `moment-timezone-with-data.js`, otherwise `.tz()` will have no effect.**
+**Important: Use `moment-timezone-with-data.js`, otherwise `.tz()` will have no effect.**
 
 - [jsfiddle.net - Run above code](https://jsfiddle.net/pysj2zk4/)
 - [github.com ~ Minified moment-timezone.min.js does not work.](https://github.com/moment/moment-timezone/issues/37)
