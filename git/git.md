@@ -1,8 +1,4 @@
-### Add changes to last commit
-    
-    git commit --amend -C HEAD
-    
-### Stop tracking changes
+ ### Stop tracking changes
 Case: Default user config file<br>
 Note: Each user will have to run it independently
 
