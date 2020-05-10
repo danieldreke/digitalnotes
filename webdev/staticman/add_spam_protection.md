@@ -2,3 +2,4 @@
   - [staticman.yml](https://github.com/eduardoboucas/staticman-recaptcha/blob/master/staticman.yml)
   - [index.html](https://github.com/eduardoboucas/staticman-recaptcha/blob/master/index.html)
 - [google.com ~ Google reCAPTCHA Admin Site](https://www.google.com/recaptcha/admin/)
+- [youtube.com ~ Google reCAPTCHA Different Versions](https://www.youtube.com/watch?v=rjEOibElXhQ)
