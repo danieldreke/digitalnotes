@@ -1,3 +1,3 @@
 ```javascript
-var y = x == 2 ? 1 : 0;
+var y = (x == 2) ? 1 : 0;
 ```
