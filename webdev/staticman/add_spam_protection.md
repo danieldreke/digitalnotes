@@ -1,4 +1,4 @@
-- [github.com ~ eduardoboucas/staticman-recaptcha](https://github.com/eduardoboucas/staticman-recaptcha)
+- [github.com ~ Demo site using Staticman + reCAPTCHA](https://github.com/eduardoboucas/staticman-recaptcha)
   - [staticman.yml](https://github.com/eduardoboucas/staticman-recaptcha/blob/master/staticman.yml)
   - [index.html](https://github.com/eduardoboucas/staticman-recaptcha/blob/master/index.html)
 - [google.com ~ Google reCAPTCHA Admin Site](https://www.google.com/recaptcha/admin/)
