@@ -3,16 +3,16 @@
 - moving in mid of April 2020, latest end of june
 - close to nature / green surrounding
   - Prenzlauer Berg / Friedrichshain -> Volkspark Friedrichshain
-  - Mitte / Tiergarten -> Tiergarten, Fritz-Schloss-Park
 - silent: sleep, meditation, calmness
 - good internet
 - very clean
 - spacious
+- good air flow
 - bright / lots of sunlight
+- balcony / terrasse / rooftop
+- max 800 per month
 - close to organic stores
 - close to vegan restaurants
-- max 600 per month
-- balcony / terrasse / rooftop
 
 ### Yes
 - https://www.immonet.de/wohnung-mieten.html
