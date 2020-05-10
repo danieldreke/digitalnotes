@@ -1,4 +1,4 @@
-### Manifesting new Flat
+## What We Want
 - flat for unlimited duration
 - moving in mid of April 2020, latest end of june
 - close to nature / green surrounding
@@ -14,7 +14,8 @@
 - close to organic stores
 - close to vegan restaurants
 
-### Yes
+## Search Platforms
+### OK
 - https://www.immonet.de/wohnung-mieten.html
 - https://www.immobilienscout24.de
   - search area can be drawn!
