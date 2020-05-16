@@ -10,4 +10,4 @@ dataframe = pandas.DataFrame(randomarray, index=rownames, columns=columnames)
 dataframe.to_csv('foo.csv', index=True, header=True, sep=',', encoding='utf8')
 ```
 
-source: https://stackoverflow.com/a/11146434
+[stackoverflow.com ~ Adding row/column headers to NumPy arrays](https://stackoverflow.com/a/11146434)
