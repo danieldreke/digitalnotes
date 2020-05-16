@@ -1,4 +1,4 @@
-    $ git remote add origin remote repository URL
+    $ git remote add origin <remote_repository_URL>
     # Sets the new remote
     $ git remote -v
     # Verifies the new remote URL
