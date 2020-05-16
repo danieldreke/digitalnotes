@@ -11,4 +11,4 @@ $(document).ready(function(){
 </script>
 ```
 
-- [jsfiddle.net - Run above code](https://jsfiddle.net/zgqs6k1u/)
+- [jsfiddle.net ~ Run above code](https://jsfiddle.net/zgqs6k1u/)
