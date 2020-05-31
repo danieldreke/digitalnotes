@@ -1,0 +1,3 @@
+- input layer 1: raster layer
+- input layer 2: vector layer with one column factor
+- output layer: raster layer with cellvalue = inputraster1 * inputvectorfactor
