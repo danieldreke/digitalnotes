@@ -1,6 +1,6 @@
 ```python
 import os
-...
+
 def exists_file(filepath):
     if os.path.exists(filepath):
         if os.path.isfile(filepath):
