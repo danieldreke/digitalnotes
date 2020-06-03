@@ -1,6 +1,6 @@
 ## What We Want
 - flat for unlimited duration
-- moving in mid of April 2020, latest end of june
+- moving in end of June, latest end of July
 - close to nature / green surrounding
   - Prenzlauer Berg / Friedrichshain -> Volkspark Friedrichshain
 - silent: sleep, meditation, calmness
