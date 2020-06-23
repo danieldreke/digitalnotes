@@ -33,4 +33,11 @@ Options afterwards:
 - https://www.consumercomplaints.in/
 - https://voxya.com/consumer-complaints
   - found via https://www.quora.com/Can-I-lodge-a-complaint-directly-to-a-PM-against-government-departments
+  - https://www.quora.com/Are-complaint-and-grievance-redressal-portals-like-Grahak-Seva-of-any-use-in-India
+    - How It helps to resolve your complaints.
+
+    It starts social media campaign for complaints.
+    Send emails to the company to resolve complaints amicably.
+    It sends a legal notice to the company before filing a case in consumer court.
+    It helps to approach consumer court and prepare all documents and evidence to submit in consumer court.
    
