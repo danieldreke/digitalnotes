@@ -37,5 +37,5 @@ at + 91-44-24301600
 Emergency service telephone in cases of emergency related to German nationals *outside of opening hours*: 
 (+91) 7358799550
 ```
+
 - [German Consulate General Kolkata](https://india.diplo.de/in-en/vertretungen/generalkonsulat3)
-  - 
