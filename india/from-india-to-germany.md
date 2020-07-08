@@ -14,8 +14,10 @@
 ### German Embassy New Delhi
 - [German Embassy New Delhi](https://india.diplo.de/in-en/vertretungen/botschaft?openAccordionId=item-236824-0-panel)
 ```
-Office hours (0091-11) 44199 199
-Emergency Service Telephone (only outside office hours): (+91) 98 1000 4950
+Contact Numbers
+(0091-11) 44199 199 (Office hours)
+(+91) 98 1000 4950 (Emergency Service Telephone, only outside office hours)
+
 Opening hours
 Monday - Thursday: 08:00 - 17:00 Hrs
 Friday: 08:00 - 14:00 Hrs
