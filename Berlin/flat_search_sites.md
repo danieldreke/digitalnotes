@@ -1,5 +1,7 @@
 ## Search Platforms
-### OK
+- [Sun's position](https://www.sunearthtools.com/dp/tools/pos_sun.php#annual)
+
+### Helpful
 - https://www.immonet.de/wohnung-mieten.html
 - https://www.immobilienscout24.de
   - search area can be drawn!
