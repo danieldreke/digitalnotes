@@ -25,3 +25,17 @@ Consular Services: Monday - Friday 08:30 - 11:30 Hrs
 ```
 
 ### Generalkonsulate
+- [German Consulate General Bengaluru](https://india.diplo.de/in-en/vertretungen/generalkonsulat1)
+  - currently closed (08.07.2020)
+- [German Consulate General Chennai](https://india.diplo.de/in-en/vertretungen/generalkonsulat2)
+  - not clear if open or closed for VISA
+```
+The German Consulate General in Chennai can be reached as per normal opening hours:
+Monday to Thursday from 7.30 a.m. to 15.15 p.m.
+Friday from 7.30 a.m. to 1.30 p.m.
+at + 91-44-24301600
+Emergency service telephone in cases of emergency related to German nationals *outside of opening hours*: 
+(+91) 7358799550
+```
+- [German Consulate General Kolkata](https://india.diplo.de/in-en/vertretungen/generalkonsulat3)
+  - 
