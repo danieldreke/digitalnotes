@@ -1,7 +1,8 @@
     sudo apt install kazam
     sudo apt install pavucontrol
 
-[youtube.com ~ How to solve audio recording problem of Kazam Screencaster](https://youtu.be/5NZ0qwp2L04)
+- [youtube.com ~ How to solve audio recording problem of Kazam Screencaster](https://youtu.be/5NZ0qwp2L04)
+  - Check configuration and (re)select `Analoge Stereo Duplex` (select something else, then reselect)
     
 ### Keyboard Shortcuts
 - `SUPER`+`CTRL`+`R` Start
