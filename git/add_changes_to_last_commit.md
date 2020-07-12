@@ -1,1 +1,1 @@
-    git commit --amend -C HEAD
+    git commit --amend --no-edit
