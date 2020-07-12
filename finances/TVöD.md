@@ -1,0 +1,2 @@
+- http://www.entgeltgruppen.net/
+- https://oeffentlicher-dienst.info/c/t/rechner/tvoed/vka?id=tvoed-vka-2020&matrix=1
