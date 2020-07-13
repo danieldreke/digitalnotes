@@ -1,0 +1,3 @@
+```
+git branch -D <branch>
+```
