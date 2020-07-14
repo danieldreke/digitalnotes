@@ -20,6 +20,10 @@
 ### Closed Source
 - [Cycligent Git Tool](https://www.cycligent.com/git-tool): 
 	- Needs license key given via email
+- [GitEye](http://www.giteyeapp.com/): Nope
+  - Eclipse-Style
+  - Overloaded with buttons, treeviews and information
+  - Can't see all branches in graph
 - [GitKraken](https://www.gitkraken.com/): Nope
 	- account must be created
 	- history and file diff in different views
