@@ -1,6 +1,6 @@
 ## Using
 
-- Markdown All in One
+- [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
   - Table of contents
   - Section numbering
 - Markdown Preview Github Styling
