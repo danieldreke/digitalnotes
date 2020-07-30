@@ -2,14 +2,13 @@
 - flat for unlimited duration
 - moving in end of June 2020, latest end of July 2020
 - close to nature / green surrounding
-  - Prenzlauer Berg / Friedrichshain -> Volkspark Friedrichshain
-- silent: sleep, meditation, calmness
+- silence for sleep and meditation
 - good internet
 - very clean
 - spacious
 - good air flow
 - bright / lots of sunlight
 - balcony / terrasse / rooftop
-- max 800 per month
+- max 900 per month
 - close to organic stores
 - close to vegan restaurants
