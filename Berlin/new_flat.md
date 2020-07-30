@@ -1,4 +1,4 @@
-## What We Want
+## Berlin Flat Manifestation
 - flat for unlimited duration
 - moving in end of June 2020, latest end of July 2020
 - close to nature / green surrounding
