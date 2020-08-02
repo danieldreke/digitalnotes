@@ -4,8 +4,8 @@
 - cash money
 - 2x credit card
 - birth certificates
-- single status certificate
-- Berlin Manifestation
+- marriage certificate
+- german marriage application
 
 ## Technical
 - laptop
