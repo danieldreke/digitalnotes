@@ -48,7 +48,7 @@
 - deo for flights
 - soap
 - shampoo
-(- razor/shaver + power supply)
+- razor/shaver + power supply
 
 ## Medicine
 - mini desinfection liquid (Thailand)
