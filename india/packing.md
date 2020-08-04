@@ -48,7 +48,7 @@
 - deo for flights
 - soap
 - shampoo
-- razor/shaver + power supply
+- (razor/shaver + power supply)
 
 ## Medicine
 - mini desinfection liquid (Thailand)
@@ -66,10 +66,10 @@
 - carabiner
 - earplugs
 - needle & black thread
-(- blanket)
-(- emergency blanket)
-(- halfsize isomat for meditation)
-(- mini sleeping bag)
+- (blanket)
+- (emergency blanket)
+- (halfsize isomat for meditation)
+- (mini sleeping bag)
 
 ## Additional
 - 4x CBD chocolate
