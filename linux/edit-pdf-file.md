@@ -1,1 +1,2 @@
-https://www.pdfescape.com
+- https://www.pdfescape.com
+- https://www.sejda.com/pdf-editor
