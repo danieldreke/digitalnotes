@@ -1,0 +1,5 @@
+- `02267866013` VFS Helpline
+  - [visa.vfsglobal.com ~ Contact us](https://visa.vfsglobal.com/ind/en/deu/contact-us)
+- `0` english
+- `2` short term visa / less than 90 days
+- `6` other visa
