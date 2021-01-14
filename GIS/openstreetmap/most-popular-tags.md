@@ -1,0 +1,3 @@
+- https://taginfo.openstreetmap.org/keys
+- https://taginfo.openstreetmap.org/tags
+- https://taginfo.openstreetmap.org/keys/building#values
