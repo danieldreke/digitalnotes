@@ -1,0 +1,3 @@
+- [Bürger-GIS Karlsruhe](https://geoportal.karlsruhe.de/buergergis/)
+  - Fachpläne > [Fernwärmeleitungsnetz](https://geoportal.karlsruhe.de/stadtplan/index.html?webmap=616597c654ea41d19f4002c5e8af1897)
+  - Hintergrundkarten > Regiokarte mit Flurstücken
