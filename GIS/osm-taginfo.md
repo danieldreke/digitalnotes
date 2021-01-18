@@ -1,0 +1,2 @@
+- [taginfo.openstreetmap.org](https://taginfo.openstreetmap.org/)
+  - [Most often used keys](https://taginfo.openstreetmap.org/keys)
