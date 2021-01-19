@@ -21,6 +21,8 @@
 - https://akasha.world/
 - https://beta.cent.co/
 
+- https://www.thinkspot.com/
+
 ## Whatsapp
 
 ### Tested
@@ -69,8 +71,6 @@
   - Open Source code base, Blockchain
 - [Diaspora](https://diasporafoundation.org/)
   - Decentralized, Open Source
-
-## Others
 
 ## Sources
 
