@@ -1,0 +1,5 @@
+- [youtube.com ~ QGIS Python - Use Processing Tools in a Python Script](https://www.youtube.com/watch?v=QIGfwn6iax4)
+- [youtube.com ~ QGIS Python (PyQGIS) - Create a Custom Processing Script](https://www.youtube.com/watch?v=kkrqnj-iUHM)
+- [docs.qgis.org ~ Writing new Processing algorithms as Python scripts](https://docs.qgis.org/3.16/en/docs/user_manual/processing/scripts.html#input-and-output-types-for-processing-algorithms)
+- [gis.stackexchange.com ~ Writing a python processing script with QGIS 3.0](https://gis.stackexchange.com/a/284410)
+- [github.com ~ QGIS Processing Scripts](https://github.com/qgis/QGIS/tree/master/python/plugins/processing/algs/qgis)
