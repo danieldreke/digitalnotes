@@ -1,17 +1,17 @@
-### Whatsapp
+## Whatsapp
 
-#### Tested
+### Tested
 
 - Signal
   - Open Source
 - Telegram
 - Threema
 
-#### Untested
+### Untested
 
-### Youtube
+## Youtube
 
-#### Untested
+### Untested
 
 - [Dtube](https://d.tube/)
   - Decentralized, Blockchain
@@ -20,34 +20,34 @@
 - [LBRY](https://lbry.tv/$/invite/@itsfoss:0)
   - Open Source, Decentralized, Blockchain
   
-### Twitter
+## Twitter
 
-#### Untested
+### Untested
 
 - [Mastodon](https://joinmastodon.org/)
   - Open Source, Decentralized
   
-### Instagram
+## Instagram
 
-#### Untested
+### Untested
 
 - [KARMA](https://karmaapp.io/)
   - Decentralized, Blockchain
 
-### Facebook
+## Facebook
 
-#### Tested
+### Tested
 
 - https://mewe.com/
 
-#### Untested
+### Untested
 
 - [Minds](https://www.minds.com/)
   - Open Source code base, Blockchain
 - [Diaspora](https://diasporafoundation.org/)
   - Decentralized, Open Source
 
-### Others
+## Others
 
 ## Sources
 
