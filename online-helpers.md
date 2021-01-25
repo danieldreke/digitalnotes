@@ -1,1 +1,1 @@
-- https://slugify.online/
+- [slugify.online](https://slugify.online/) Convert any title to clean-url-syntax
