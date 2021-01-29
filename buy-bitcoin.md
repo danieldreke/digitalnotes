@@ -2,6 +2,7 @@
 
 - Easy registration
 - Withdrawal via Bank Account closed from Fri 17:00 to Mon 8:00
+- Requires minimum amount of 15 EUR to buy
 
 ## Coinbase
 
