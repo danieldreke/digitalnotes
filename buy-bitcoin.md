@@ -18,6 +18,19 @@
 - App takes ages to start, like more than a minute
 - Requieres minimum amount of 50 EUR to buy
 
+## Interesting but Untested
+
+- PrimeXBT https://prime-bonus.com/en/tothemoon/2-50/
+- https://ftx.com/
+
 ## Find Exchange
 
 - https://www.bitdegree.org/crypto/best-bitcoin-exchange
+- https://www.buybitcoinworldwide.com/germany/
+  - Binance is missing!?
+- https://www.buybitcoinworldwide.com/buy-bitcoin-bank-transfer-account/
+  - Buy via SEPA bank account
+- https://www.bestbitcoinexchange.net/for-germany/
+  - Coupons https://www.bestbitcoinexchange.net/coupons/
+  - at the bottom of the page
+- https://www.fxempire.com/crypto/exchanges/bitcoin/germany
