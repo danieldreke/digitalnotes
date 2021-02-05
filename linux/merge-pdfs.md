@@ -1,6 +1,6 @@
 ## Merge with ghostscript (preinstalled)
 
-    gs -dBATCH -dNOPAUSE -q -sDEVICE=pdfwrite -sOutputFile=merged.pdf pdf1.pdf pdf2.pdf
+    gs -dBATCH -dNOPAUSE -q -sDEVICE=pdfwrite -sOutputFile=merged.pdf file1.pdf file2.pdf
 
 [stackoverflow.com ~ Merge / convert multiple PDF files into one PDF](https://stackoverflow.com/a/19358402)
 
