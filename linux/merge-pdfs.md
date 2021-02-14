@@ -4,7 +4,7 @@
 
 [stackoverflow.com ~ Merge / convert multiple PDF files into one PDF](https://stackoverflow.com/a/19358402)
 
-## Merge with pdfunite
+## Merge with pdfunite (not preinstalled)
 
     pdfunite file1.pdf file2.pdf merged.pdf
     
