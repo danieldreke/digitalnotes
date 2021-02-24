@@ -1,0 +1,5 @@
+- [The Richest Man in Babylon (1926)](https://en.wikipedia.org/wiki/The_Richest_Man_in_Babylon) - George S. Clason
+  - [Read here](http://thediamondsmine.com/files/Ebooks/Clason-RichestManInBabylon.pdf)
+- [Think and Grow Rich (1937)](https://en.wikipedia.org/wiki/Think_and_Grow_Rich) - Napoleon Hill
+  - [Read here](https://archive.org/details/think-and-grow-rich/mode/2up)
+- [Happy Money: The Japanese Art of Making Peace with Your Money (2019)](https://kenhonda.com/book/) - Ken Honda
