@@ -3,3 +3,4 @@
 - [Think and Grow Rich (1937)](https://en.wikipedia.org/wiki/Think_and_Grow_Rich) - Napoleon Hill
   - [Read here](https://archive.org/details/think-and-grow-rich/mode/2up)
 - [Happy Money: The Japanese Art of Making Peace with Your Money (2019)](https://kenhonda.com/book/) - Ken Honda
+- [The Intelligent Investor (1949)](https://en.wikipedia.org/wiki/The_Intelligent_Investor) - Benjamin Graham
