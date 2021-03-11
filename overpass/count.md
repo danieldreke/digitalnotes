@@ -1,3 +1,7 @@
+```
+out count;
+```
+
 ## Query
 
 https://overpass-turbo.eu/s/14VW
