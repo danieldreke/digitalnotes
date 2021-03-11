@@ -1,5 +1,5 @@
 ```python
-print('processing...', end='')
+print('processing...', end='', flush=True)
 print('done')
 ```
 
