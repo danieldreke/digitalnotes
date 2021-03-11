@@ -1,0 +1,3 @@
+- [deutschlandistvegan.de ~ Veganer Champagner](https://www.deutschlandistvegan.de/veganer-champagner/#kaufen)
+- [en-vie-champagne.com ~ cuvée début 0.75l](https://www.en-vie-champagne.com/product-page/cuv%C3%A9e-d%C3%A9but-eine-flasche)
+- [amazon.de ~ Taittinger Champagner 0.75l Brut Réserve](https://smile.amazon.de/gp/product/B01EYDZ2DI/ref=ox_sc_act_title_1?smid=A2IR6BDOYG9ON9)
