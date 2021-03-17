@@ -30,6 +30,12 @@ for filename in os.listdir(FILESDIRPATH):
 zipfile_.close()
 ```
 
+## Attribute Error
+
+`AttributeError: 'ZipFile' object has no attribute 'ZIP_DEFLATED'`
+
+Solution: Do NOT name any variable `zipfile`.
+
 ## Sources
 
 - [docs.python.org ~ zipfile](https://docs.python.org/3/library/zipfile.html)
