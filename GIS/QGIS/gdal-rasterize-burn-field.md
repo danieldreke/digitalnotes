@@ -8,4 +8,5 @@ Raster output looks in QGIS like
 
 ## Solution
 
-Length of name of field to burn should be 10 chars long max.
+- Length of name of field to burn should be max 10 chars long
+- Projections of field layer and extent layer must be same
