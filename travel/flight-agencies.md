@@ -1,6 +1,8 @@
 ## OK
 
 ## NOPE
+- bravofly
+  - no info regarding luggage weight
 - [tripmonster](https://www.trustpilot.com/review/tripmonster.com)
   - no info regarding luggage weight
   - horrible e-ticket: 
