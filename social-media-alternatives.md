@@ -78,3 +78,4 @@
 - [hackernoon.com ~ Why a Decentralized Social Network with Passive Income Potential Will Emerge, Eventually](https://hackernoon.com/why-a-decentralized-social-network-with-passive-income-potential-will-emerge-eventually-vg473e47)
 - https://www.techrepublic.com/article/top-5-decentralized-social-networks/
 - https://bravenewcoin.com/insights/decentralized-social-media-is-peer-to-peering-into-the-future
+- https://bravenewcoin.com/insights/decentralized-social-media-the-good-the-bad-and-the-potentially-ugly
