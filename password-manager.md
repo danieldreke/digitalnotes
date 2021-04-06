@@ -1,4 +1,4 @@
-## Pasword Managers
+## Password Managers
 
 - Keypass
 - Bitwarden
