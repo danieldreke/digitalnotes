@@ -1,0 +1,2 @@
+- https://goodimpact.eu/good-news/
+- https://nur-positive-nachrichten.de/
