@@ -1,0 +1,4 @@
+- [news.bitcoin.com ~ How You Can Get Up to 17% Annually Holding Digital Assets](https://news.bitcoin.com/crypto-earning-vs-savings-accounts-how-you-can-get-up-to-17-annually-holding-digital-assets/)
+- https://defirate.com/lend/
+- https://loanscan.io/
+- https://compound.finance/
