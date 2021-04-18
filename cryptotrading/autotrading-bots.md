@@ -1,6 +1,6 @@
 ## Testing
 
-- [trality](https://www.trality.com/)
+- [Trality](https://www.trality.com/)
   - https://alternativeto.net/software/trality/about/
   - https://github.com/trality/crypto-trading-bots
   - 3.9 Score https://www.trustpilot.com/review/trality.com
@@ -12,7 +12,6 @@
   - no reviews on trustpilot
 - [coinrule](https://coinrule.com/about.html): Looks promising
   - https://coinrule.com/about.html
-  - 
 - [kaktana](https://kaktana.com/): Looks promising
   - https://alternativeto.net/software/kaktana/about/
   - Open Source!: https://github.com/Kaktana
@@ -22,11 +21,11 @@
 
 ## Nope
 
-- Livetrader: Nope
-  - https://alternativeto.net/software/livetrader/about/
-  - https://www.trustpilot.com/review/livetraders.com
-    - Reviews seem bought and fake
 - 3commas.io: Nope
   - https://www.trustpilot.com/review/3commas.io
   - customer service seems shitty
   - bugs seem buggy
+- Livetrader: Nope
+  - https://alternativeto.net/software/livetrader/about/
+  - https://www.trustpilot.com/review/livetraders.com
+    - Reviews seem bought and fake
