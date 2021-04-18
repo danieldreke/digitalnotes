@@ -5,6 +5,15 @@
   - https://github.com/trality/crypto-trading-bots
   - 3.9 Score https://www.trustpilot.com/review/trality.com
 
+## Tested
+
+- [kaktana](https://kaktana.com/): Nope, too complicated to set up a bot
+  - https://alternativeto.net/software/kaktana/about/
+  - Open Source!: https://github.com/Kaktana
+  - they seem to have managed surviving burning main data center
+    - https://kaktana.com/post/kaktana-incident-all-the-story-behind-ac
+  - no trustpilot reviews
+
 ## Untested
 
 - [cryptohero.ai](https://cryptohero.ai/): Looks promising
@@ -12,12 +21,6 @@
   - no reviews on trustpilot
 - [coinrule](https://coinrule.com/about.html): Looks promising
   - https://coinrule.com/about.html
-- [kaktana](https://kaktana.com/): Looks promising
-  - https://alternativeto.net/software/kaktana/about/
-  - Open Source!: https://github.com/Kaktana
-  - they seem to have managed surviving burning main data center
-    - https://kaktana.com/post/kaktana-incident-all-the-story-behind-ac
-  - no trustpilot reviews
 
 ## Nope
 
