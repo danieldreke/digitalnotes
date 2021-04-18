@@ -8,6 +8,7 @@
 ## Tested
 
 - [cryptohero.ai](https://cryptohero.ai/): Bot settings too simplified
+  - Can't find logout
   - https://alternativeto.net/software/cryptohero/about/
   - no reviews on trustpilot
 - [kaktana](https://kaktana.com/): Very complicated to set up a bot
