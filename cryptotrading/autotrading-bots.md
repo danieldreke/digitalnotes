@@ -7,7 +7,8 @@
 
 ## Tested
 
-- [kaktana](https://kaktana.com/): Nope, too complicated to set up a bot
+- [kaktana](https://kaktana.com/): Very complicated to set up a bot
+  - Nice features: Sandbox and Backtesting
   - https://alternativeto.net/software/kaktana/about/
   - Open Source!: https://github.com/Kaktana
   - they seem to have managed surviving burning main data center
