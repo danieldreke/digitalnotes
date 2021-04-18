@@ -7,6 +7,9 @@
 
 ## Tested
 
+- [cryptohero.ai](https://cryptohero.ai/): Bot settings too simplified
+  - https://alternativeto.net/software/cryptohero/about/
+  - no reviews on trustpilot
 - [kaktana](https://kaktana.com/): Very complicated to set up a bot
   - Nice features: Sandbox and Backtesting
   - https://alternativeto.net/software/kaktana/about/
@@ -17,9 +20,6 @@
 
 ## Untested
 
-- [cryptohero.ai](https://cryptohero.ai/): Looks promising
-  - https://alternativeto.net/software/cryptohero/about/
-  - no reviews on trustpilot
 - [coinrule](https://coinrule.com/about.html): Looks promising
   - https://coinrule.com/about.html
 
