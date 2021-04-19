@@ -5,6 +5,12 @@
   - https://github.com/trality/crypto-trading-bots
   - 3.9 Score https://www.trustpilot.com/review/trality.com
 
+## Untested
+
+- [quantconnect](https://www.quantconnect.com/)
+- [coinrule](https://coinrule.com/about.html): Looks promising
+  - https://coinrule.com/about.html
+
 ## Tested
 
 - [cryptohero.ai](https://cryptohero.ai/): Bot settings too simplified
@@ -18,11 +24,6 @@
   - they seem to have managed surviving burning main data center
     - https://kaktana.com/post/kaktana-incident-all-the-story-behind-ac
   - no trustpilot reviews
-
-## Untested
-
-- [coinrule](https://coinrule.com/about.html): Looks promising
-  - https://coinrule.com/about.html
 
 ## Nope
 
