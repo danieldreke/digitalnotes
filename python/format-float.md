@@ -4,7 +4,7 @@ num = 0.123
 print("num = %.2f" % num)
 # format
 print("num = {:.2f}".format(num))
-# f
+# f, new in python 3.6
 print(f"num: {num:.2f}")
 ```
 output `num = 0.12`
