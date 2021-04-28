@@ -7,10 +7,13 @@
 
 ## Untested
 
-- 3commas.io: Nope
+- 3commas.io:
+  - [Youtube Coin Bureau ~ Crypto Trading Bots: Are They Worth It? 🤖](https://www.youtube.com/watch?v=9Hv0BQwYlPw&t=1085s)
+  - Offers take profit with stop loss order
+  - Easily set up stop loss
+  - Trailing take profit
+  - Dollar averaging bots
   - https://www.trustpilot.com/review/3commas.io
-  - customer service seems shitty
-  - bugs seem buggy
 - [crypto hopper](https://www.cryptohopper.com)
 - [quantconnect](https://www.quantconnect.com/)
   - Open Source!
