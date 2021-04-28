@@ -9,6 +9,9 @@
 
 - [quantconnect](https://www.quantconnect.com/)
   - Open Source!
+- [Bitsgap]()
+  - https://www.youtube.com/watch?v=m0Rewo2e6Wo
+  - Seems to be good for grid
 - [shrimpy](https://www.shrimpy.io)
   - [Link to shrimpy supporting coinbureau](https://guy.coinbureau.com/r/shrimpy)
   - Recommended by Coinbureau in [this video](https://www.youtube.com/watch?v=9Hv0BQwYlPw) especially for:
