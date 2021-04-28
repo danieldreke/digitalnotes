@@ -7,6 +7,7 @@
 
 ## Untested
 
+- [crypto hopper](https://www.cryptohopper.com)
 - [quantconnect](https://www.quantconnect.com/)
   - Open Source!
 - [Bitsgap]()
