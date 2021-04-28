@@ -7,6 +7,10 @@
 
 ## Untested
 
+- 3commas.io: Nope
+  - https://www.trustpilot.com/review/3commas.io
+  - customer service seems shitty
+  - bugs seem buggy
 - [crypto hopper](https://www.cryptohopper.com)
 - [quantconnect](https://www.quantconnect.com/)
   - Open Source!
@@ -20,6 +24,7 @@
     - Powerful backtesting
 - [coinrule](https://coinrule.com/about.html): Looks promising
   - https://coinrule.com/about.html
+
 
 ## Tested
 
@@ -35,12 +40,9 @@
     - https://kaktana.com/post/kaktana-incident-all-the-story-behind-ac
   - no trustpilot reviews
 
+
 ## Nope
 
-- 3commas.io: Nope
-  - https://www.trustpilot.com/review/3commas.io
-  - customer service seems shitty
-  - bugs seem buggy
 - Livetrader: Nope
   - https://alternativeto.net/software/livetrader/about/
   - https://www.trustpilot.com/review/livetraders.com
