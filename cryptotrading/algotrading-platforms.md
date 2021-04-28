@@ -8,6 +8,12 @@
 ## Untested
 
 - [quantconnect](https://www.quantconnect.com/)
+  - Open Source!
+- [shrimpy](https://www.shrimpy.io)
+  - [Link to shrimpy supporting coinbureau](https://guy.coinbureau.com/r/shrimpy)
+  - Recommended by Coinbureau in [this video](https://www.youtube.com/watch?v=9Hv0BQwYlPw) especially for:
+    - Using and learning from other people strategies
+    - Powerful backtesting
 - [coinrule](https://coinrule.com/about.html): Looks promising
   - https://coinrule.com/about.html
 
