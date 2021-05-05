@@ -1,0 +1,1 @@
+- [stackoverflow.com ~ pandas: filter rows of DataFrame with operator chaining](https://stackoverflow.com/a/28159296)
