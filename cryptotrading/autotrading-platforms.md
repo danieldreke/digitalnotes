@@ -3,7 +3,7 @@
 - [Trality](https://www.trality.com/)
   - https://alternativeto.net/software/trality/about/
   - https://github.com/trality/crypto-trading-bots
-  - 3.9 Score https://www.trustpilot.com/review/trality.com
+  - 4.0 Score https://www.trustpilot.com/review/trality.com
 
 ## Untested
 
@@ -17,6 +17,10 @@
 - [crypto hopper](https://www.cryptohopper.com)
 - [quantconnect](https://www.quantconnect.com/)
   - Open Source!
+  - [Free trade/chart data available](https://www.quantconnect.com/data/tree/crypto/bitfinex/second/dogeusdt)
+  - [Notifications via email, SMS and webhooks](https://www.quantconnect.com/docs/live-trading/notifications)
+  - [Backtesting including Terminal](https://www.quantconnect.com/terminal/#my-projects)
+  - 3.4 https://www.trustpilot.com/review/quantconnect.com
 - [Bitsgap]()
   - https://www.youtube.com/watch?v=m0Rewo2e6Wo
   - Seems to be good for grid
