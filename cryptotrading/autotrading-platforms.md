@@ -16,7 +16,7 @@
   - https://www.trustpilot.com/review/3commas.io
 - [crypto hopper](https://www.cryptohopper.com)
 - [quantconnect](https://www.quantconnect.com/)
-  - Open Source!
+  - Open Source and python! see [`LiveFeaturesAlgorithm.py`](https://github.com/QuantConnect/Lean/blob/master/Algorithm.Python/LiveFeaturesAlgorithm.py)
   - [Free trade/chart data available](https://www.quantconnect.com/data/tree/crypto/bitfinex/second/dogeusdt)
   - [Notifications via email, SMS and webhooks](https://www.quantconnect.com/docs/live-trading/notifications)
   - [Backtesting including Terminal](https://www.quantconnect.com/terminal/#my-projects)
