@@ -1,3 +1,14 @@
+## Find Culprit
+
+```
+top
+```
+
+Press `SHIFT-M` to sort by memory usage descending.
+
+
+## nm-applet
+
 ```
 killall nm-applet
 ```
