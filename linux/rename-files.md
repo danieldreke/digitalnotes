@@ -1,4 +1,4 @@
-Replace spaces with underscores for files ending with `.txt`
+Replace spaces ` ` with underscores `_` for files ending with `.txt`
 ```
 rename 'y/ /_/' *.txt
 ```
