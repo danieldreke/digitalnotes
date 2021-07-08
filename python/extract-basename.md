@@ -26,3 +26,7 @@ import os
 >>> os.path.basename(os.path.split(filepath)[0])
 'projectN'
 ```
+
+## Source
+
+https://note.nkmk.me/en/python-os-basename-dirname-split-splitext/
