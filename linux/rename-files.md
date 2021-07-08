@@ -3,6 +3,11 @@ Replace spaces in text files in current directory with underscores
 rename 'y/ /_/' *.txt
 ```
 
+Replace foo with bar
+```
+rename 's/foo/bar/' *.txt
+```
+
 Replace spaces of filtered text files in sub directories of maxdepth 2 with underscores
 
 ```
