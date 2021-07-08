@@ -3,7 +3,7 @@ Replace spaces with underscores for files ending with `.txt`
 rename 'y/ /_/' *.txt
 ```
 
-Replace foo with bar
+Replace foo with bar for files ending with `.txt`
 ```
 rename 's/foo/bar/' *.txt
 ```
