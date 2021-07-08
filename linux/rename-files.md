@@ -1,4 +1,4 @@
-Replace spaces in text files in current directory with underscores
+Replace spaces with underscores for files ending with `.txt`
 ```
 rename 'y/ /_/' *.txt
 ```
@@ -8,7 +8,7 @@ Replace foo with bar
 rename 's/foo/bar/' *.txt
 ```
 
-Replace spaces of filtered text files in sub directories of maxdepth 2 with underscores
+Replace spaces with underscores for text files in sub directories of maxdepth 2
 
 ```
 find . -maxdepth 2 -name \*.txt | rename 'y/ /_/'
