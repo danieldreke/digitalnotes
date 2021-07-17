@@ -1,13 +1,15 @@
 ```javascript
-var array = [{ one: 1, two: 2 }, { one: 3, two: 4 }],
+var array = [[1, 2], [3, 4]],
 var index = array.findIndex(function(object) {
-  return object.two === 2;
+  return object[1] === 4;
 });
 ```
 
 ```javascript
-var windowIndex = windows.findIndex(function(object) {
-  return object[0] === window.id;
+var array = [{ one: 1, two: 2 }, { one: 3, two: 4 }],
+var index = array.findIndex(function(object) {
+  return object.two === 4;
 });
 ```
+
 https://stackoverflow.com/a/44383203
