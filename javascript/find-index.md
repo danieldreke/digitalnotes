@@ -1,6 +1,6 @@
 ```javascript
 var array = [[1, 2], [3, 4]],
-var index = array.findIndex(function(object) {
+var index = array.findIndex(object => {
   return object[1] === 4;
 });
 ```
