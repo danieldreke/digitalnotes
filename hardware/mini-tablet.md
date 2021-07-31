@@ -14,4 +14,4 @@
 
 ## Amazon Fire 7 Tablet
 - 7" display, 16 GB
-- 9000 INR
+- [amazon.in - 9000 INR](https://www.amazon.in/All-New-Fire-Tablet-display-16/dp/B07FKR6KXF/ref=sr_1_1?dchild=1&keywords=Fire+7+Tablet&qid=1627730517&sr=8-1)
