@@ -6,6 +6,10 @@
 ## Lenovo Tab M7
 - 7-inch, 1GB, 16 GB, Wi-fi+4G LTE
 - [amazon.in - 8000 INR](https://www.amazon.in/Lenovo-Tab-16GB-Iron-Grey/dp/B08DD8HKG9/ref=sr_1_5?dchild=1&keywords=Lenovo+Tab+M7&qid=1627730843&sr=8-5)
+- Protection:
+  - https://www.amazon.in/Caseous-Synthetic-Leather-Lenovo-TB-7305x/dp/B08GQ2ZQBB
+  - https://www.amazon.in/KANICT-Lenovo-Tab-2nd-7305F/dp/B085MLGPDM
+  - https://www.amazon.in/SHOPPIZY-1-Folding-Lenovo-Tab-M7/dp/B085WLL48Y
 
 ## Samsung Galaxy Tab T295 A 8.0"
 - LTE 32GB 2GB RAM
