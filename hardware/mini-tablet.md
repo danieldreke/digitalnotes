@@ -5,11 +5,12 @@
 
 ## Lenovo Tab M7
 - 7-inch, 1GB, 16 GB, Wi-fi+4G LTE
-- 8000 INR
+- [amazon.in - 8000 INR](https://www.amazon.in/Lenovo-Tab-16GB-Iron-Grey/dp/B08DD8HKG9/ref=sr_1_5?dchild=1&keywords=Lenovo+Tab+M7&qid=1627730843&sr=8-5)
 
-## Samsung Galaxy Tab A 8.0"
+## Samsung Galaxy Tab T295 A 8.0"
 - LTE 32GB 2GB RAM
 - 160 EUR
+- Seems to be not available on amazon.in
 - https://en.wikipedia.org/wiki/Samsung_Galaxy_Tab_series
 
 ## Amazon Fire 7 Tablet
