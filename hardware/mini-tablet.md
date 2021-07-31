@@ -10,7 +10,8 @@
 ## Lenovo Tab M8 HD 2nd Gen
 - 8 inch, 3GB, 32 GB, Wi-Fi+LTE
 - [Lenovo Tab M8 HD Review: Crazy Long Battery Life](https://www.youtube.com/watch?v=f6gzLiAuNSg)
-- [amazon.in - 11k INR](https://www.amazon.in/Lenovo-Tab-2GB-32GB-Calling/dp/B08BZQ11BN/ref=sr_1_4?dchild=1&keywords=Lenovo+Tab+M8+lte+2nd&qid=1627740198&refinements=p_72%3A1318476031&rnid=1318475031&sr=8-4)
+- [amazon.in - 11k INR](https://www.amazon.in/Lenovo-Tab-2GB-32GB-Calling/dp/B08BZQ11BN)
+- [amazon.de - 119 EUR](https://smile.amazon.de/Lenovo-Tab-2nd-Gen-ZA63/dp/B08F3LVDXN)
 
 
 ## Samsung Galaxy Tab T295 A 8.0"
