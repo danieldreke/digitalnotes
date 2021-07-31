@@ -10,6 +10,9 @@
   - https://www.amazon.in/Caseous-Synthetic-Leather-Lenovo-TB-7305x/dp/B08GQ2ZQBB
   - https://www.amazon.in/KANICT-Lenovo-Tab-2nd-7305F/dp/B085MLGPDM
   - https://www.amazon.in/SHOPPIZY-1-Folding-Lenovo-Tab-M7/dp/B085WLL48Y
+  - https://www.amazon.in/tempered-screen-coverage-protector-shield/dp/B08GCZGQNT
+  - https://www.amazon.in/M-G-R-J®-Tempered-Protector-Tab-M7/dp/B082KVHCH9
+  - https://www.amazon.in/Unbreakable-Compatible-LENOVO-TAB-Transparent/dp/B08SCFKPP6
 
 ## Samsung Galaxy Tab T295 A 8.0"
 - LTE 32GB 2GB RAM
