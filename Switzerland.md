@@ -1,0 +1,10 @@
+- [Bern](https://en.wikipedia.org/wiki/Bern)
+  - https://en.wikipedia.org/wiki/Bern#/media/File:Central_Bern_from_north.jpg
+  - https://en.wikipedia.org/wiki/File:Bern_2.jpg
+- [Lugano](https://en.wikipedia.org/wiki/Lugano)
+  - https://en.wikipedia.org/wiki/File:Lugano_from_Sighignola.jpg
+- [Locarno](https://en.wikipedia.org/wiki/Locarno)
+  - https://en.wikipedia.org/wiki/Locarno#/media/File:Locarno_porto_-_panoramio.jpg
+- [Lake Maggiore](https://en.wikipedia.org/wiki/Lake_Maggiore)
+- [Zug](https://en.wikipedia.org/wiki/Zug)
+  - https://en.wikipedia.org/wiki/File:City_of_zug_oldtown_aerial_view_%E8%80%81%E9%95%87.jpg
