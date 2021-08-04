@@ -6,5 +6,6 @@
 - [Locarno](https://en.wikipedia.org/wiki/Locarno)
   - https://en.wikipedia.org/wiki/Locarno#/media/File:Locarno_porto_-_panoramio.jpg
 - [Lake Maggiore](https://en.wikipedia.org/wiki/Lake_Maggiore)
+  - https://en.wikipedia.org/wiki/Lake_Maggiore#/media/File:LagoMaggiore.jpg
 - [Zug](https://en.wikipedia.org/wiki/Zug)
   - https://en.wikipedia.org/wiki/File:City_of_zug_oldtown_aerial_view_%E8%80%81%E9%95%87.jpg
