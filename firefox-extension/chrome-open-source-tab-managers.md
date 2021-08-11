@@ -1,9 +1,23 @@
-- https://github.com/JonasNo/Tab-Manager  
+- https://github.com/stefanXO/Tab-Manager-Plus
+  - About: *An updated and improved Chrome and Firefox extension of the old google chrome extension "Tab Manager".* 
+  - Last commit: on 22 Jun 2020
+  - Total commits: 337
+  - Forked from: mastef/Tab-Manager
+- https://github.com/mastef/Tab-Manager
+  - About: *The source code of the google chrome extension "Tab Manager"* 
+  - Last commit: on 16 April 2018
+  - Total commits: 55
+  - Forked from: joshperry/Tab-Manager
+- https://github.com/JonasNo/Tab-Manager
+  - About: *A clean version of Tab Manager, a chrome extension for managing tabs.*
   - Last commit: on 28 Sep 2017
   - Total commits: 4
 - https://github.com/joshperry/Tab-Manager
+  - About: *The source code of the google chrome extension "Tab Manager"* 
   - Last commit: on 8 Sep 2016
   - Total commits: 52
+  - Forked from: dsc/Tab-Manager
 - https://github.com/dsc/Tab-Manager
+  - About: *The source code of the google chrome extension "Tab Manager"* 
   - Last commit: on 13 Nov 2011
   - Total commits: 12
