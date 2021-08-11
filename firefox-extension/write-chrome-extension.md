@@ -1,0 +1,2 @@
+- [codeinwp.com ~ How to Write a Chrome Extension: Step-by-Step Guide With Example Code](https://www.codeinwp.com/blog/how-to-write-a-chrome-extension/)
+  - [github.com/HardeepAsrani/notify/](https://github.com/HardeepAsrani/notify/)
