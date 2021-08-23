@@ -2,4 +2,6 @@
   - Uses plugin 'Least Cost Path'
   - Input: Cost Raster, Start Point(s) Layer, End Point(s) Layer
 - [QGIS Network Analysis Tools](https://docs.qgis.org/3.16/en/docs/training_manual/vector_analysis/network_analysis.html)
+  - Calculates shortest/fastest route based on road layer and user selected start and end point on map
+  - Points have to fit perfectly on road layer, which is impossible via manual selection on map
   - `Road Graph Plugin` seems to have been merged into these tools according to [this source](https://gis.stackexchange.com/a/297243)
