@@ -1,7 +1,7 @@
-- [Simple Least Cost Path Analysis in QGIS](https://www.youtube.com/watch?v=6dodHcHm7ws)
-  - Uses plugin 'Least Cost Path'
+- [youtube ~ Simple Least Cost Path Analysis in QGIS](https://www.youtube.com/watch?v=6dodHcHm7ws)
+  - Uses plugin `Least Cost Path`
   - Input: Cost Raster, Start Point(s) Layer, End Point(s) Layer
-- [QGIS Network Analysis Tools](https://docs.qgis.org/3.16/en/docs/training_manual/vector_analysis/network_analysis.html)
+- [docs.qgis.org ~ QGIS Network Analysis Tools](https://docs.qgis.org/3.16/en/docs/training_manual/vector_analysis/network_analysis.html)
   - Calculates shortest/fastest route based on road layer and user selected start and end point on map
   - By default points have to fit perfectly on road layer, which is impossible via manual selection on map
     - Solution: Set `Topology tolerance` higher than `0 meters`
