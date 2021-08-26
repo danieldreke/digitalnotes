@@ -1,3 +1,22 @@
+## Works for me
+
+```javascript
+functionFoo(e) {
+  var middleMouseButtonClicked = e.which == 2 && e.button == 1;
+  if (middleMouseButtonClicked) {
+    ...
+  }
+}
+
+elem.addEventListener('auxclick', functionFoo);
+```
+
+[stackoverflow ~ How to detect middle mouse button click?](https://stackoverflow.com/a/21224428)
+
+## Incomplete
+
+ Following code snippets are incomplete as `auxclick` will also be triggered by right mouse button click.
+
 ```javascript
 elem.addEventListener('auxclick', functionFoo);
 ```
