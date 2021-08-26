@@ -1,5 +1,7 @@
 ## Works for me
 
+System: FF88 on Linux Mint 18.1 Serena
+
 ```javascript
 functionFoo(e) {
   var middleMouseButtonClicked = e.which == 2 && e.button == 1;
