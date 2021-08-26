@@ -31,3 +31,11 @@ elem.onauxclick = function(e) {
 ```
 - [developer.mozilla.org ~ Element: auxclick event](https://developer.mozilla.org/en-US/docs/Web/API/Element/auxclick_event)
 - [developer.mozilla.org ~ GlobalEventHandlers.onauxclick](https://developer.mozilla.org/en-US/docs/Web/API/GlobalEventHandlers/onauxclick)
+
+## Additional
+
+```javascript
+var leftMouseButtonClicked = e.which == 1 && e.button == 0;
+var middleMouseButtonClicked = e.which == 2 && e.button == 1;
+var rightMouseButtonClicked = e.which == 3 && e.button == 2;
+```
