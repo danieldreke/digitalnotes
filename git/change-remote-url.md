@@ -2,7 +2,7 @@
 # List existing remote urls
 git remote -v
 # Change origin remote URL
-git remote set-url origin https://git-repo/new-repository.git
+git remote set-url origin <remote-url>
 ```
 - [stackoverflow ~ How to change the URI (URL) for a remote Git repository?](https://stackoverflow.com/a/19298943)
 - [devconnected.com ~ How To Change Git Remote Origin](https://devconnected.com/how-to-change-git-remote-origin/)
