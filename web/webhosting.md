@@ -1,0 +1,4 @@
+- https://www.hosteurope.de/en/
+  - Score 4.9 / 3.1k reviews (2021-09) https://www.trustpilot.com/review/hosteurope.de
+- https://www.hostinger.com/
+  - Score 4.2 / 2.6k reviews (2021-09) https://www.trustpilot.com/review/hostinger.com
