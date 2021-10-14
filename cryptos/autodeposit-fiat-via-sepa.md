@@ -21,3 +21,4 @@
 ## Not working
 
 - Binance: has suspended deposit via SEPA in June 2021
+  - Advcash: 1 EUR deposit fee
