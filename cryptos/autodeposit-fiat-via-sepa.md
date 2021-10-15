@@ -34,8 +34,11 @@
 ## Not working
 
 - Binance: has suspended deposit EUR via SEPA in June 2021
-  - Advcash: 1 EUR deposit fee
-    - 101 EUR deposit minimum
-    - Withdrawal fee Adv EUR Wallet to EUR bank account via SEPA: 5 EUR + 0.50%
-    - Every time I want to log in and my IP has changed I get a new PIN via email to login, very annoying
+  - Advcash: 
+    - Deposit Fee: 1 EUR, 101 EUR deposit minimum
+    - Withdrawal fee: Adv EUR Wallet to EUR bank account via SEPA: 5 EUR + 0.50%
+    - Regarding 2FA it only supports proprietary Proctimus Prime Authenticator, never heard of
     - Greedy fees, don't want to support
+      - SMS codes fee: 0.10 EUR
+    - Solved: Every time I want to log in and my IP has changed I get a new PIN via email to login, very annoying
+      - Solution: Can be deactivated
