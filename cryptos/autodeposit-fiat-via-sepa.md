@@ -1,11 +1,12 @@
 ## Untested and having an account
 
 - Crypto.com
+  - Waiting for verification confirmation
   - Minimum deposit 20 EUR [see here](https://help.crypto.com/en/articles/2461467-fiat-wallet-eur-bank-transfers-via-sepa-network)
   - Free top up via TransferWise and Paypal [see here](https://blog.crypto.com/free-fiat-top-ups-for-transferwise-and-paypal-users/)
 - Coinbase [see here](https://help.coinbase.com/en/coinbase/getting-started/add-a-payment-method/payment-methods-for-european-customers)
 - FTX
-  - KYC does not work so far, no feedback since more than a week
+  - Waiting for verification confirmation
 
 ## Untested and no account
 
@@ -22,3 +23,5 @@
 
 - Binance: has suspended deposit via SEPA in June 2021
   - Advcash: 1 EUR deposit fee
+    - Waiting for verification confirmation
+  - Fee Adv EUR Wallet to EUR bank account via SEPA: 5 EUR + 0.50%
