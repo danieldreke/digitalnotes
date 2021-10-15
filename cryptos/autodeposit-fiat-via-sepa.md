@@ -37,4 +37,5 @@
   - Advcash: 1 EUR deposit fee
     - 101 EUR deposit minimum
     - Withdrawal fee Adv EUR Wallet to EUR bank account via SEPA: 5 EUR + 0.50%
+    - Every time I want to log in and my IP has changed I get a new PIN via email to login, very annoying
     - Greedy fees, don't want to support
