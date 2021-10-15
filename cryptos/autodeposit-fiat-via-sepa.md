@@ -2,6 +2,7 @@
 
 - Crypto.com
   - Via website I tried adding USD bank account but it automatically sets bank country and billings address country to India...
+    - No solution yet, it seems to base both locations from phone number country predial
   - Minimum deposit 20 EUR [see here](https://help.crypto.com/en/articles/2461467-fiat-wallet-eur-bank-transfers-via-sepa-network)
     - Incorrect: Successfully deposited 1 EUR in Oct 2021
   - Free top up via TransferWise and Paypal [see here](https://blog.crypto.com/free-fiat-top-ups-for-transferwise-and-paypal-users/)
