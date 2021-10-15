@@ -1,7 +1,9 @@
 ## Untested and having an account
 
 - Crypto.com
-  - Waiting for verification confirmation
+  - There is now super button in the app "Exchange" on Android...wtf
+  - Downloaded crypto.com but when I want to log via sent email login link the app tarts signup process...wtf
+  - Via website I tried adding USD bank account but it automatically sets bank country and billings address country to India...wtf
   - Minimum deposit 20 EUR [see here](https://help.crypto.com/en/articles/2461467-fiat-wallet-eur-bank-transfers-via-sepa-network)
   - Free top up via TransferWise and Paypal [see here](https://blog.crypto.com/free-fiat-top-ups-for-transferwise-and-paypal-users/)
 - Coinbase [see here](https://help.coinbase.com/en/coinbase/getting-started/add-a-payment-method/payment-methods-for-european-customers)
