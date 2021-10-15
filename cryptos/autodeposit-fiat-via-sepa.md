@@ -1,6 +1,15 @@
 ## Untested and having an account
 
+- Coinbase [see here](https://help.coinbase.com/en/coinbase/getting-started/add-a-payment-method/payment-methods-for-european-customers)
+- FTX
+  - Waiting for verification confirmation
+
+## Tested and Nope
+
 - Crypto.com
+  - After countless codes via SMS and email it's just too complicated:
+    - The Exchange doesn't support FIAT, I need to buy via app which I assume has shitty rates - Assumption! TODO: double check
+    - TODO: find stable coin that can be transfered to another exchange for very low fee, TRON network for USDT is not supported :/
   - Via website I tried adding USD bank account but it automatically sets bank country and billings address country to India...
     - No solution yet, it seems to base both locations from phone number country predial
   - Minimum deposit 20 EUR [see here](https://help.crypto.com/en/articles/2461467-fiat-wallet-eur-bank-transfers-via-sepa-network)
@@ -10,9 +19,6 @@
     - Solution: Downloaded crypto.com app in Google Play Store
   - Downloaded crypto.com but when I want to log via sent email login link the app tarts signup process...
     - "Solution": Logged in with no problems with an older account
-- Coinbase [see here](https://help.coinbase.com/en/coinbase/getting-started/add-a-payment-method/payment-methods-for-european-customers)
-- FTX
-  - Waiting for verification confirmation
 
 ## Untested and no account
 
@@ -27,7 +33,8 @@
 
 ## Not working
 
-- Binance: has suspended deposit via SEPA in June 2021
+- Binance: has suspended deposit EUR via SEPA in June 2021
   - Advcash: 1 EUR deposit fee
-    - Waiting for verification confirmation
-  - Fee Adv EUR Wallet to EUR bank account via SEPA: 5 EUR + 0.50%
+    - 101 EUR deposit minimum
+    - Withdrawal fee Adv EUR Wallet to EUR bank account via SEPA: 5 EUR + 0.50%
+    - Greedy fees, don't want to support
