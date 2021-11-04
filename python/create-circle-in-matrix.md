@@ -8,4 +8,5 @@ def my_unit_circle(r):
    return (np.abs(np.hypot(rx - x, ry - y)-r) < 0.5).astype(int)
 ```
 
-[stackoverflow.com ~ How to generate a matrix with circle of ones in numpy/scipy](https://stackoverflow.com/a/39074620)
+- [stackoverflow.com ~ How to generate a matrix with circle of ones in numpy/scipy](https://stackoverflow.com/a/39074620)
+- https://numpy.org/doc/stable/reference/generated/numpy.hypot.html
