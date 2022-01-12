@@ -12,3 +12,4 @@
 
 - https://www.w3schools.com/python/ref_string_rjust.asp
 - [stackoverflow.com ~ Format output string, right alignment](https://stackoverflow.com/a/8234511)
+- https://www.geeksforgeeks.org/python-string-format-method/
