@@ -1,3 +1,5 @@
+`/etc/profile`
+
 ```shell
 PYTHONPACKAGEPATH=/home/user/pythonpackage
 
@@ -12,4 +14,5 @@ if [[ "$PYTHONPATH" != *"$PYTHONPACKAGEPATH"* ]] ; then
 fi
 ```
 
-[stackoverflow.com ~ PYTHONPATH on Linux](https://stackoverflow.com/a/18247508)
+- [stackoverflow.com ~ PYTHONPATH on Linux](https://stackoverflow.com/a/18247508)
+- [stackoverflow.com ~ How to permanently set $PATH on Linux/Unix](https://stackoverflow.com/a/26962251)
