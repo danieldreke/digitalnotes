@@ -11,3 +11,5 @@ if [[ "$PYTHONPATH" != *"$PYTHONPACKAGEPATH"* ]] ; then
   export PYTHONPATH=${PYTHONPATH}:$PYTHONPACKAGEPATH;
 fi
 ```
+
+[stackoverflow.com ~ PYTHONPATH on Linux](https://stackoverflow.com/a/18247508)
