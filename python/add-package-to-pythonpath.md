@@ -1,7 +1,7 @@
 Add following lines to `/etc/profile` and set `PYTHONPACKAGEPATH` to path to your python package.
 
 ```shell
-# Replace with the path to your python package
+# Replace with path to your python package
 PYTHONPACKAGEPATH="/home/user/pythonpackage";
 
 # if PYTHONPATH is undefined then set it to PYTHONPACKAGEPATH
