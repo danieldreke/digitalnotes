@@ -6,30 +6,39 @@
 sudo apt-get install scrot
 ```
 
-### Command Line
+### Command Line Test
 
     while true; do scrot -d 60 '%Y-%m-%d-%H:%M:%S.jpg' -e 'mv $f ~/screenshots/'; done
 
 - `-d 60` wait for 60 seconds
 - `-e 'mv $f ~/screenshots/'` save to `~/screenshots/`
 
-### Create subdirectory for day
 
-    while true; do echo 'Screenshot taken @ '`date`; mkdir -p ~/screenshots/`date +%Y-%m-%d`; scrot '%Y-%m-%d__%H:%M.jpg' -e 'mv $f ~/screenshots/`date +%Y-%m-%d`'; sleep 60; done
+### Script that also creates subdirectories for year-month and year-month-day
 
-Console output
+```shell
+while true
+do
+  yearmonth=`date +%Y-%m`;
+  yearmonthday=`date +%Y-%m-%d`;
+  targetdir="~/screenshots/$yearmonth/$yearmonthday";
+  mkdir -p $targetdir;
+  filename=`date +%Y-%m-%d__%H:%M`.jpg;
+  scrot $filename -e "mv $filename $targetdir";
+  echo 'Screenshot taken @ '`date`;
+  sleep 60;
+done
+```
     
-    Screenshot taken @ Sun Apr 5 16:42:53 CEST 2020
-    Screenshot taken @ Sun Apr 5 16:43:53 CEST 2020
-    ...
-
-### Create subdirectories for year-month and year-month-day
-
-    while true; do echo 'Screenshot taken @ '`date`; mkdir -p ~/screenshots/`date +%Y-%m`/`date +%Y-%m-%d`; scrot '%Y-%m-%d__%H:%M.jpg' -e 'mv $f ~/screenshots/`date +%Y-%m`/`date +%Y-%m-%d`'; sleep 60; done
-    
-folder structure
+#### Folder Structure
 
     2020-04/
         2020-04-01/
         2020-04-02/
         ...
+
+#### Console Output
+    
+    Screenshot taken @ Sun Apr 5 16:42:53 CEST 2020
+    Screenshot taken @ Sun Apr 5 16:43:53 CEST 2020
+    ...
