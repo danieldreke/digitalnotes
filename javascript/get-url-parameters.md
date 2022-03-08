@@ -19,5 +19,6 @@ function getUrlParameters() {
 }
 ```
 
-- [stackoverflow.com ~ Getting the url parameters inside the html page](https://stackoverflow.com/a/50747608)
+- [stackoverflow.com ~ Getting the url parameters inside the html page (best answer)](https://stackoverflow.com/a/50747608)
+- [stackoverflow.com ~ Getting the url parameters inside the html page (another answer)](https://stackoverflow.com/a/22607328)
 - [flexiple.com ~ Associative array in JavaScript](https://flexiple.com/associative-array-javascript/)
