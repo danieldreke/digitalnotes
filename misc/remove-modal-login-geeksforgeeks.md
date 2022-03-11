@@ -7,5 +7,5 @@
   - Uncheck `position: fixed` in `Styles` `element.style`
 - Disable autoscroll to top
   - Switch from `Styles` to `Event Listeners`
-  - Select `scroll`
+  - Unfold `scroll`
   - Remove `gfg.min.js` via click on `Remove`
