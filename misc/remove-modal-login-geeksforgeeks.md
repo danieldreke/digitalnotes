@@ -1,0 +1,11 @@
+- Remove modal login
+  - `Inspect Element`
+  - Rightclick `<div class="login-modal-div"` tag in `Elements`
+  - Remove via `Delete element`
+- Enable page scroll
+  - Select `<body>` tag in `Elements`
+  - Uncheck `position: fixed` in `Styles` `element.style`
+- Disable autoscroll to top
+  - Switch from `Styles` to `Event Listeners`
+  - Select `scroll`
+  - Remove both listeners via click on `Remove`
