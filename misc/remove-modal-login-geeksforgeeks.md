@@ -8,4 +8,4 @@
 - Disable autoscroll to top
   - Switch from `Styles` to `Event Listeners`
   - Select `scroll`
-  - Remove both listeners via click on `Remove`
+  - Remove `gfg.min.js` via click on `Remove`
