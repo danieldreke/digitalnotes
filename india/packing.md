@@ -4,8 +4,8 @@
 - cash money
 - 2x credit card
 - birth certificates
-- marriage certificate
-- german marriage application
+- indian marriage certificate
+- german marriage certificate
 
 ## Technical
 - laptop
@@ -42,6 +42,7 @@
 - 2x mini inderdental brush
 - 2x comb
 - nail scissor
+- nail file
 - washing powder
 - handkerchiefs
 - hand desinfection gel
