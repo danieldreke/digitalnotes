@@ -1,0 +1,2 @@
+- [docs.github.com ~ Building and testing Python](https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-python)
+- [blog.dennisokeeffe.com ~ PyTest With GitHub Actions](https://blog.dennisokeeffe.com/blog/2021-08-08-pytest-with-github-actions)
