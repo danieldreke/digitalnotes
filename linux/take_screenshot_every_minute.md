@@ -33,6 +33,12 @@ do
   sleep 60;
 done
 ```
+
+#### Run Script at Startup in Terminal
+
+Linuxmint `Startup Applications > Add > Command`
+
+    gnome-terminal -x bash -c "~/.config/autostart/take-screenshot-every-minute.sh; exec bash"
     
 #### Folder Structure
 
