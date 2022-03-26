@@ -1,6 +1,6 @@
 ```python
->>>> import os
->>>> os.environ['HOME']
+>>> import os
+>>> os.environ['HOME']
 /home/<user>
 ```
 
