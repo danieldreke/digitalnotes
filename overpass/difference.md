@@ -3,8 +3,8 @@
     (statement_1; - statement_2;)
 
 - [wiki.openstreetmap.org ~ Block statements: Difference](https://wiki.openstreetmap.org/wiki/Overpass_API/Overpass_QL#Difference)
-- Example [overpass-turbo.eu ~ Supermarkets not close to railway stations](https://overpass-turbo.eu/s/1heQ)
-  - [dev.overpass-api.de ~ Multiple selections in parallel](https://dev.overpass-api.de/overpass-doc/en/preface/design.html#sets)
+- Example [Supermarkets not close to railway stations](https://overpass-turbo.eu/s/1heQ) (overpass-turbo.eu)
+  - Source [dev.overpass-api.de ~ Multiple selections in parallel](https://dev.overpass-api.de/overpass-doc/en/preface/design.html#sets)
 
 ## Example
 
