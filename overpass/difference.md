@@ -2,7 +2,8 @@
 
     (statement_1; - statement_2;)
 
-[wiki.openstreetmap.org ~ Block statements: Difference](https://wiki.openstreetmap.org/wiki/Overpass_API/Overpass_QL#Difference)
+- [wiki.openstreetmap.org ~ Block statements: Difference](https://wiki.openstreetmap.org/wiki/Overpass_API/Overpass_QL#Difference)
+- [dev.overpass-api.de ~ Example: Supermarkets not close to railway stations](https://dev.overpass-api.de/overpass-doc/en/preface/design.html#sets)
 
 ## Example
 
