@@ -1,0 +1,18 @@
+//@version=5
+indicator('Monthly Open', overlay=true)
+monthlyopen = request.security(syminfo.tickerid, 'M', open, lookahead=barmerge.lookahead_on)
+monthlyclose = request.security(syminfo.tickerid, 'M', close, lookahead=barmerge.lookahead_on)
+
+currentyear = year(timenow) == year(time)
+currentmonth = month(timenow) == month(time)
+var thismonth = false
+if timeframe.ismonthly or timeframe.isdaily or timeframe.isintraday
+    thismonth := currentyear and currentmonth
+if timeframe.isweekly
+    thismonth := currentyear and barstate.isrealtime
+    monthlyopen := monthlyclose
+
+if thismonth
+    line.new(time, monthlyopen, time+2, monthlyopen, xloc=xloc.bar_time, extend=extend.right, width=2)
+
+plot(thismonth ? monthlyopen : na, linewidth=2)
