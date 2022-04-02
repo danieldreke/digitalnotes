@@ -13,7 +13,7 @@ if timeframe.isdaily or timeframe.isintraday
     thisweek := currentyear and currentweek and firsthour
 
 if thisweek
-    line.new(time, wo, time, wo, xloc=xloc.bar_time, extend=extend.right, width=2)
+    line.new(time, wo, time+2, wo, xloc=xloc.bar_time, extend=extend.right, width=2)
 
 plot(thisweek ? wo : na, linewidth=2)
 ```
