@@ -1,4 +1,3 @@
-```pinescript
 //@version=5
 indicator('Weekly Open', overlay=true)
 wo = request.security(syminfo.tickerid, 'W', open, lookahead=barmerge.lookahead_on)
@@ -16,4 +15,3 @@ if thisweek
     line.new(time, wo, time+2, wo, xloc=xloc.bar_time, extend=extend.right, width=2)
 
 plot(thisweek ? wo : na, linewidth=2)
-```
