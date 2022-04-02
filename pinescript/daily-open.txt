@@ -1,0 +1,17 @@
+//@version=5
+indicator('Daily Open', overlay=true)
+dailyopen = request.security(syminfo.tickerid, 'D', open, lookahead=barmerge.lookahead_on)
+
+iscurrentyear = year(timenow) == year(time)
+iscurrentmonth = month(timenow) == month(time)
+iscurrentweek = weekofyear(timenow) == weekofyear(time)
+var thisday = false
+if timeframe.ismonthly or timeframe.isdaily or timeframe.isintraday
+    thisday := iscurrentyear and iscurrentmonth
+if timeframe.isweekly
+    thisday := iscurrentyear and iscurrentweek
+
+if thisday
+    line.new(time, dailyopen, time+2, dailyopen, xloc=xloc.bar_time, extend=extend.right, width=2)
+
+plot(thisday ? dailyopen : na, linewidth=2)
