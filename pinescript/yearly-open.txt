@@ -1,18 +1,10 @@
 //@version=5
-indicator('Yearly Open', overlay=true) //, format=format.volume
-// format https://www.tradingcode.net/tradingview/format-price-scale/
-// scale https://kodify.net/tradingview/indicator-settings/scale-indicator/
-yo = request.security(syminfo.tickerid, '12M', open, lookahead=barmerge.lookahead_on)
+indicator(title="Yearly Open", overlay=true)
 
-currentyear = year(timenow) == year(time)
-firstmonth = month(time) == 1
-var thisyear = false
-if timeframe.ismonthly or timeframe.isweekly or timeframe.isdaily or timeframe.isintraday
-    thisyear := currentyear and firstmonth
-// TODO show yearly open for timeframe < 5m
+yearlyopen = request.security(syminfo.tickerid, '12M', open, lookahead=barmerge.lookahead_on)
+iscurrentyear = year(timenow) == year(time)
+plotyearlyopen = iscurrentyear
 
-if thisyear
-    line.new(time, yo, time+2, yo, xloc=xloc.bar_time, extend=extend.right, width=2)
-    //label.new(bar_index, high)
-
-plot(thisyear ? yo : na, linewidth=2, color=color.new(color.blue, 0))
+if plotyearlyopen
+    line.new(time, yearlyopen, time+2, yearlyopen, xloc=xloc.bar_time, extend=extend.right, width=2)
+plot(plotyearlyopen ? yearlyopen : na, linewidth=2, color=color.new(color.blue, 0))
