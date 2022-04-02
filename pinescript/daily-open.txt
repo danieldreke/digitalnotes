@@ -5,11 +5,14 @@ dailyopen = request.security(syminfo.tickerid, 'D', open, lookahead=barmerge.loo
 iscurrentyear = year(timenow) == year(time)
 iscurrentmonth = month(timenow) == month(time)
 iscurrentweek = weekofyear(timenow) == weekofyear(time)
+iscurrentday = dayofmonth(timenow) == dayofmonth(time)
 var thisday = false
-if timeframe.ismonthly or timeframe.isdaily or timeframe.isintraday
+if timeframe.ismonthly or timeframe.isdaily
     thisday := iscurrentyear and iscurrentmonth
 if timeframe.isweekly
     thisday := iscurrentyear and iscurrentweek
+if timeframe.isintraday
+    thisday := iscurrentyear and iscurrentmonth and iscurrentday
 
 if thisday
     line.new(time, dailyopen, time+2, dailyopen, xloc=xloc.bar_time, extend=extend.right, width=2)
