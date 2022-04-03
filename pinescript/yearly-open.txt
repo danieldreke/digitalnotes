@@ -1,10 +1,15 @@
 //@version=5
 indicator(title="Yearly Open", overlay=true)
 
+inputlinewidth = input.int(defval=2, title="Line Width", minval=1, maxval=10, confirm=true, step=1)
+inputlinecolor = input(color.yellow, "Line Color")
+
 yearlyopen = request.security(syminfo.tickerid, '12M', open, lookahead=barmerge.lookahead_on)
 iscurrentyear = year(timenow) == year(time)
-plotyearlyopen = iscurrentyear
 
-if plotyearlyopen
-    line.new(time, yearlyopen, time+2, yearlyopen, xloc=xloc.bar_time, extend=extend.right, width=2)
-plot(plotyearlyopen ? yearlyopen : na, linewidth=2, color=color.new(color.blue, 0))
+// draw yearly open of current year as horizontal line from first to last bar
+plot(iscurrentyear ? yearlyopen : na, linewidth=inputlinewidth, color=inputlinecolor)
+
+// draw yearly open of current year as horizontal line from last bar to right price scale
+if barstate.islast
+    line.new(time, yearlyopen, time+1, yearlyopen, xloc=xloc.bar_time, width=inputlinewidth, extend=extend.right, color=inputlinecolor)
