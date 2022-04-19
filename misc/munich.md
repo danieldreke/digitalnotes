@@ -10,3 +10,5 @@
 - [Cost of Living Comparison Between Berlin and Munich 🔗 numbeo.com](https://www.numbeo.com/cost-of-living/compare_cities.jsp?country1=Germany&city1=Berlin&country2=Germany&city2=Munich)
 - [Berlin vs Munich - Cost of Living Comparison 🔗 livingcost.org](https://livingcost.org/cost/berlin/munich)
 - [COST OF LIVING COMPARISON - Munich is 56.4% more expensive than Berlin 🔗 mylifeelsewhere.com](https://www.mylifeelsewhere.com/cost-of-living/berlin-c5881/munich-c5925)
+- [Wohnungsleerstand – Müssen Vermieter bei Leerstand zahlen? 🔗 allrecht.de](https://www.allrecht.de/alles-was-recht-ist/wohnungsleerstand/)
+- [Fragen & Antworten Zweckentfremdung von Wohnraum in München 🔗 stadt.muenchen.de](https://stadt.muenchen.de/service/info/bestandssicherung/1076745/)
