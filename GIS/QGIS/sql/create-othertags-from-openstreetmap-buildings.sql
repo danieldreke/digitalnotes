@@ -1,5 +1,8 @@
 SELECT 
-	building_tag 
+	geometry
+	, osm_id
+	, osm_way_id
+	, building_tag 
 	|| CASE WHEN LENGTH(building_tag) > 0 THEN ','
 		ELSE ''
 	   END
@@ -14,7 +17,10 @@ SELECT
 	|| other_tags AS 'other_tags'
 FROM (
 	SELECT 
-		CASE WHEN LENGTH(TRIM(building)) > 0 THEN
+		geometry
+		, osm_id
+		, osm_way_id
+		, CASE WHEN LENGTH(TRIM(building)) > 0 THEN
 			'"building"=>"' || building || '"'
 		ELSE ''
 		END AS building_tag
