@@ -1,4 +1,4 @@
-## Wanna Try
+## Using
 
 - [TorGuard](https://torguard.net/)
   - Supports Linux
@@ -16,5 +16,5 @@
 
 ## Sources
 
-- [VPN TIER LIST 2021 by Tom Spark](https://www.vpntierlist.com/vpn-tier-list/)
+- [VPN Tier List 2022 by Tom Spark](https://www.vpntierlist.com/vpn-tier-list-2022)
 - [youtube channel ~ Tom Spark Reviews](https://www.youtube.com/channel/UCXJWKuGh0qedrYviGEJmlWw)
