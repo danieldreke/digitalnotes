@@ -1,7 +1,7 @@
 ## Password Managers
 
 - KeyPassXC
-  - `sudo apt install keepassxc`
+  - `sudo snap install keepassxc`
   - https://keepassxc.org/
   - https://alternativeto.net/software/keepassxc/about/
   - https://github.com/keepassxreboot/keepassxc
