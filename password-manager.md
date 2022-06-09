@@ -1,8 +1,15 @@
 ## Password Managers
 
 - Keypass
+  - https://keepass.info/
+  - https://alternativeto.net/software/keepass/about/
 - Bitwarden
+  - https://bitwarden.com/
+  - https://alternativeto.net/software/bitwarden--free-password-manager/about/
 - pass
+  - http://zx2c4.com/projects/password-store/
+    - https://www.passwordstore.org/
+  - https://alternativeto.net/software/pass/about/ 
 
 
 ## Sources
