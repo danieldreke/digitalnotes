@@ -4,9 +4,13 @@
   - https://keepass.info/
   - https://alternativeto.net/software/keepass/about/
 - Bitwarden
+  - `sudo snap install bitwarden`
+  - Seems to require online account and to store all passwords and master password in the cloud
   - https://bitwarden.com/
   - https://alternativeto.net/software/bitwarden--free-password-manager/about/
-- pass
+- pass 
+  - Requires GPG key and is CLI only by default
+    - QtPass for GUI
   - http://zx2c4.com/projects/password-store/
     - https://www.passwordstore.org/
   - https://alternativeto.net/software/pass/about/ 
