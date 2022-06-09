@@ -1,6 +1,7 @@
 ## Password Managers
 
 - Keypass
+  - `sudo apt-get install keepass2`
   - https://keepass.info/
   - https://alternativeto.net/software/keepass/about/
 - Bitwarden
