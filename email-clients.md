@@ -7,6 +7,12 @@
 
 ## Email Clients
 
+- Geary
+  - Unable to setup: `IMAP connection error`
+  - `sudo apt-get install geary`
+  - https://alternativeto.net/software/geary/about/
+  - https://wiki.gnome.org/Apps/Geary
+  - https://gitlab.gnome.org/GNOME/geary
 - Kontact - KMail
   - Unable to setup
     - Greyed out import dialog appears with disabled yes/no buttons
