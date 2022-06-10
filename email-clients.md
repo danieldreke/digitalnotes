@@ -1,4 +1,4 @@
-## Requirements
+## Looking For
 
 - Open source
 - Linux support
@@ -6,6 +6,14 @@
 - OpenPGP / End-to-end encryption
 
 ## Email Clients
+
+- Evolution
+  - `sudo apt-get install evolution`
+  - https://alternativeto.net/software/evolution/about/
+  - https://wiki.gnome.org/Apps/Evolution
+  - https://gitlab.gnome.org/GNOME/evolution
+
+## Nope
 
 - Geary
   - Unable to setup: `IMAP connection error`
