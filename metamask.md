@@ -1,0 +1,4 @@
+- [How to export an account's private key](https://metamask.zendesk.com/hc/en-us/articles/360015289632-How-to-export-an-account-s-private-key)
+- [How to import an Account](https://metamask.zendesk.com/hc/en-us/articles/360015489331)
+- [User Guide: Secret Recovery Phrase, password, and private keys](https://metamask.zendesk.com/hc/en-us/articles/4404722782107-User-Guide-Secret-Recovery-Phrase-password-and-private-keys)
+- [How to add missing accounts after restoring with Secret Recovery Phrase](https://metamask.zendesk.com/hc/en-us/articles/360015489271-How-to-add-missing-accounts-after-restoring-with-Secret-Recovery-Phrase)
