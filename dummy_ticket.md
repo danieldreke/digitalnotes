@@ -27,3 +27,4 @@
 - https://schengenvisaflightreservation.com/pricing/
 - https://www.dummyticket.com
 - https://visareservation.com/?scrollto=delivery
+- https://dummy-tickets.com/ (fast but low quality)
