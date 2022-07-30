@@ -1,3 +1,10 @@
+## Flight Dummy Ticket
+- https://schengenvisaflightreservation.com/pricing/
+- https://www.dummyticket.com
+- https://visareservation.com/?scrollto=delivery
+- https://flyinghelpline.com/ (slow, 12 to 24 hours)
+- https://dummy-tickets.com/ (fast but low quality)
+
 ## Train
 - [flixtrain.de](www.flixtrain.de)
   - like flixbus
@@ -22,9 +29,3 @@
     - coupon valid for only 4 months
     - no cancellation fee
   - supercheap ticket prices as new competitor to flixbus (95% market share)
-
-## Dummy Ticket Services for Flight & Hotel
-- https://schengenvisaflightreservation.com/pricing/
-- https://www.dummyticket.com
-- https://visareservation.com/?scrollto=delivery
-- https://dummy-tickets.com/ (fast but low quality)
