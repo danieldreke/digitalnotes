@@ -1,4 +1,5 @@
 ## Flight Dummy Ticket
+- [quora.com ~ Is it legal to apply for Schengen visa with dummy tickets?](https://www.quora.com/Is-it-legal-to-apply-for-Schengen-visa-with-dummy-tickets)
 - https://schengenvisaflightreservation.com/pricing/
 - https://www.dummyticket.com
 - https://visareservation.com/?scrollto=delivery
