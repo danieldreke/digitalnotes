@@ -1,3 +1,4 @@
+- www.preiswert-uebernachten.de/hotel-pensionen/berlin/474
 - www.ebay-kleinanzeigen.de/stadt/berlin/
 - www.google.de/maps/search/berlin+accommodation
 - www.ferienwohnungen.de/europa/deutschland/berlin/ferienunterkuenfte
