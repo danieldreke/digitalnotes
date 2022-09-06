@@ -1,0 +1,3 @@
+- https://css-tricks.com/couple-takes-sticky-footer/#aa-there-is-flexbox
+- https://codepen.io/chriscoyier/pen/RRbKrL
+- https://levelup.gitconnected.com/how-to-keep-your-footer-at-the-bottom-of-the-page-the-easy-way-20aa3bcd621f
