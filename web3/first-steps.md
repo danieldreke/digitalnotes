@@ -1,0 +1,2 @@
+- [youtube.com ~ Is Web3 all Hype? Top 10 Web 3.0 Questions & Answers](https://www.youtube.com/watch?v=wHTcrmhskto)
+  - [youtube.com ~ The Complete Guide to Full Stack Ethereum Development - Tutorial for Beginners](https://www.youtube.com/watch?v=a0osIaAOFSE)
