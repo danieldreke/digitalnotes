@@ -7,3 +7,9 @@
 
 - https://www.w3schools.com/js/js_api_fetch.asp
 - Example: https://www.w3schools.com/js/tryit.asp?filename=tryjs_api_fetch_easy
+
+## Popular Examples
+
+- Facebook, Twitter, Instagram
+- Google Maps, GMail, Google Drive
+- Netflix, Airbnb, Paypal
