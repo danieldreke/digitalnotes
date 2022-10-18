@@ -1,0 +1,3 @@
+- https://unused-css.com/blog/css-shake-animation/
+- https://www.tutorialspoint.com/css/css_animation_shake.htm
+- [easings.net ~ Easing Functions Cheat Sheet](https://easings.net/en)
