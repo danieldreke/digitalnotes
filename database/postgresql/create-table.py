@@ -1,6 +1,5 @@
-Source: https://www.tutorialspoint.com/python_data_access/python_postgresql_create_table.htm
+# Source: https://www.tutorialspoint.com/python_data_access/python_postgresql_create_table.htm
 
-```python
 import psycopg2
 
 #Establishing the connection
@@ -26,4 +25,3 @@ print("Table created successfully........")
 conn.commit()
 #Closing the connection
 conn.close()
-```
