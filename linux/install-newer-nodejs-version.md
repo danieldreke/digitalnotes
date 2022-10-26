@@ -1,6 +1,7 @@
 ```bash    
 # Installing nodejs v16 for Ubuntu / LinuxMint
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.37.2/install.sh | bash
+source ~/.bashrc
 nvm list-remote
 nvm install v16.18.0
 ```
