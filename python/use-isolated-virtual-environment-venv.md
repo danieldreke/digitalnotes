@@ -4,8 +4,9 @@ python3 -m venv venv
 # Activate venv
 source venv/bin/activate
 (venv) $
-# Install packages (into isolated location / virtual environment)
+# Upgrade pip (once)
 pip install --upgrade pip
+# Install packages (into isolated location / virtual environment)
 pip install <package>
 # Deactivate venv
 deactivate
