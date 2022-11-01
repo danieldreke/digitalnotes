@@ -1,6 +1,6 @@
-Add `\t` to `PS1` in `~/.bashrc`
+Add `\t` or `\D{%T}` to `PS1` in `~/.bashrc`
 ```
-user@host ~ 02:22:22 $
+[02:22:22] user@host ~ $
 ```
 
 - https://bneijt.nl/blog/add-a-timestamp-to-your-bash-prompt/
