@@ -8,13 +8,10 @@ source venv/bin/activate
 pip install --upgrade pip
 # Install packages (into isolated location / virtual environment)
 pip install <package>
+# Run script.py (with python version that created virtua environment)
+python script.py
 # Deactivate venv
 deactivate
 ```
 
 https://realpython.com/python-virtual-environments-a-primer/
-
-Use venv to:
-- Avoid System Pollution
-- Sidestep Dependency Conflicts
-- Minimize Reproducibility Issues
