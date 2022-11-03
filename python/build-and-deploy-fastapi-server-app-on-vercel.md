@@ -9,7 +9,7 @@ git clone git@github.com:icode247/PostgresWithFastAPI.git
 
 https://dev.to/arctype/deploy-a-python-api-on-vercel-using-postgres-4871
 
-### Once
+### Install and Setup
 
 ```sh
 # Install postman
