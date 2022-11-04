@@ -31,6 +31,8 @@ touch {main,database,model,schema,session}.py
 ### Run
 
 ```sh
+# Activate virtual environment venv
+source venv/bin/activate
 # Run server and reload on code changes
 uvicorn main:app --reload
 ```
