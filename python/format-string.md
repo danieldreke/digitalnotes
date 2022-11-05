@@ -5,4 +5,5 @@
 He said his name is Fred and he is 42 years old.
 ```
 
-[cito.github.io ~ The new f-strings in Python 3.6](https://cito.github.io/blog/f-strings/)
+- [cito.github.io ~ The new f-strings in Python 3.6](https://cito.github.io/blog/f-strings/)
+- [realpython.com ~ Python 3's f-Strings: An Improved String Formatting Syntax (Guide)](https://realpython.com/python-f-strings/)
