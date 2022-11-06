@@ -13,4 +13,5 @@ async def create_user(user: User):
     ...
 ```
 
-https://fastapi.tiangolo.com/tutorial/body/
+- [fastapi.tiangolo.com ~ FastAPI: Request Body](https://fastapi.tiangolo.com/tutorial/body/)
+- [betterprogramming.pub ~ How to Create A POST Request in FastAPI](https://betterprogramming.pub/how-to-create-a-post-request-in-fastapi-3dbd017dd998)
