@@ -8,3 +8,6 @@ Start bleachbit and select:
     - Cache
     - Rubbish Bin
     - Temporary Files
+  - APT
+    - clean
+    - Package lists
