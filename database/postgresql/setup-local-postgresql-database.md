@@ -1,7 +1,7 @@
 ## Setup Local Postgres Database on Ubuntu/Linux Mint
 
 ```sh
-# Install Postgres and 
+# Install postgres 
 sudo apt-get install postgresql libpq-dev postgresql-client postgresql-client-common
 # Switch to linux user/account `postgres`
 sudo -i -u postgres
