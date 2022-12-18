@@ -1,0 +1,2 @@
+- [iatatravelcentre.com ~ Travel Regulations Map](https://www.iatatravelcentre.com/international-travel-document-news/1580226297.htm)
+- [turkishairlines.com ~ Map of Travel Rules of Countries](https://www.turkishairlines.com/en-tr/travel-requirements/)
