@@ -19,6 +19,7 @@ deta new
 ```
 3. Open `endpoint` URL in browser and add `/docs`
 4. Enable public access via `deta auth disable`
+5. Deploy changes via `deta deploy`
 
 - https://fastapi.tiangolo.com/deployment/deta/
 - [stackoverflow.com ~ Automatically create requirements.txt](https://stackoverflow.com/a/68469353)
