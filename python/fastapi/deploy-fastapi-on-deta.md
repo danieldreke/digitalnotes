@@ -6,13 +6,14 @@ source ./venv/bin/activate
 # Install pipreqs
 pip install pipreqs
 # Create file requirements.txt
-python -m  pipreqs.pipreqs .
+python -m pipreqs.pipreqs .
 # Install Deta CLI
 curl -fsSL https://get.deta.dev/cli.sh | sh
 # Open new terminal and confirm installation
 deta --help
 # Login to Deta
 deta login
+# On deta dashboard click 'Create project'
 # Deploy FastAPI app
 deta new
 ```
