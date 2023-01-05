@@ -1,5 +1,6 @@
 1. Create free account on Deta https://www.deta.sh/?ref=fastapi
-2. Execute shell commands
+2. Verify eMail and on deta landing page click button `Create First Project`
+3. Open Terminal and execute following shell commands
 ```sh
 # Activate virtual environment venv
 source ./venv/bin/activate
