@@ -6,7 +6,8 @@ do
   mkdir -p "$targetdir";
   filename=`date +%Y-%m-%d__%H:%M`.jpg;
   scrot $filename -e "mv \"$filename\" \"$targetdir\"";
-  echo 'Screenshot taken @ '`date`;
+  #echo 'Screenshot taken @ '`date`;
+  echo 'It is now '`date`
   # remove empty dir created by scrot if it exists
   emptydir=`echo ~/screenshots/$yearmonthday`;
   #if [ -d $emptydir ]; then rmdir $emptydir; fi;
