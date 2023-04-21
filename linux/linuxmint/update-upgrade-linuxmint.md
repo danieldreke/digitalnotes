@@ -1,0 +1,2 @@
+- [community.linuxmint.com ~ How to upgrade to Linux Mint 19](https://community.linuxmint.com/tutorial/view/2416)
+- [omgubuntu.co.uk ~ How to Upgrade to Linux Mint 19 (In 4 Simple Steps)](https://www.omgubuntu.co.uk/2018/07/upgrade-to-linux-mint-19-easy)
