@@ -1,0 +1,3 @@
+- Open Google Drive https://drive.google.com
+- Upload pdf via `New > File Upload`
+- Import/Convert pdf via `Open With > Google Docs`
