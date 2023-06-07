@@ -1,0 +1,2 @@
+- https://chat-gpt.org/chat
+- https://www.phind.com/
