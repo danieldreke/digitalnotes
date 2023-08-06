@@ -1,0 +1,2 @@
+- [brutto-netto-rechner.info ~ Brutto Netto Rechner - Gehaltsrechner](https://www.brutto-netto-rechner.info/)
+- [nettolohn.de ~ Gehaltsrechner 2023 (2022, 2021)](https://www.nettolohn.de/)
