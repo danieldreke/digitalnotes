@@ -21,10 +21,8 @@ sudo nano resync-time-after-wake-up.sh
 Copy-Paste following code into `resync-time-after-wake-up.sh`
 ```sh
 #!/bin/sh
-case $1 in
-    post)
-        timedatectl set-local-rtc 1 --adjust-system-clock
-        ;;
+case $1 in post)
+    timedatectl set-local-rtc 1 --adjust-system-clock;;
 esac
 ```
 
