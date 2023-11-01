@@ -6,6 +6,8 @@ source venv/bin/activate
 (venv) $
 # Upgrade pip (once)
 python -m pip install --upgrade pip
+# List installed packages
+python -m pip list
 # Install packages (into isolated location / virtual environment)
 python -m pip install <package>
 # Run script.py (with python version that created virtua environment)
