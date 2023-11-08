@@ -1,5 +1,6 @@
 ```js
-for (let row of mytable.rows) 
+var table = document.getElementById("myTable");
+for (let row of table.rows) 
 {
     for(let cell of row.cells) 
     {
