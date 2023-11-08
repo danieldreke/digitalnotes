@@ -6,10 +6,14 @@ Time is off by two hours after Linux Mint 21.2 wakes up.
 
 #### Fix/Resync time
 
-    # show time info
+    # Show time info
     timedatectl
-    # adjust-system-clock to use RTC in UTC
+    # Maintain Real-Time Clock (RTC) in universal time
     timedatectl set-local-rtc 0
+    # Disable Network Time Protocol (NTP) synchronization
+    timedatectl set-ntp false
+    # Enable Network Time Protocol (NTP) synchronization
+    timedatectl set-ntp true
 
 #### Warning from timedatectl
 
@@ -35,7 +39,10 @@ Copy-Paste following code into `resync-time-after-wake-up.sh`
 
 ```sh
 #!/bin/sh
-timedatectl set-local-rtc 1 --adjust-system-clock
+# Disable Network Time Protocol (NTP) synchronization
+timedatectl set-ntp false
+# Enable Network Time Protocol (NTP) synchronization
+timedatectl set-ntp true
 ```
 
 ```sh
