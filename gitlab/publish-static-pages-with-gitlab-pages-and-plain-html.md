@@ -15,7 +15,7 @@
 ## Alternative Way via Gitlab Pages Template
 
 1. Create new project from template
-  -  New Project > Create from template > Use template `Pages/Plain HTML`
+   - New Project > Create from template > Use template `Pages/Plain HTML`
 2. Publish by running pipeline manually
    - Build > Pipelines > Run Pipeline > Run Pipeline
    - Alternatively create new commit (& push) which triggers automatic build
