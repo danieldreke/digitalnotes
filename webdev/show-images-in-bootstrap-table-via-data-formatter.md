@@ -8,7 +8,7 @@
 </table>
 <script>
   function urlToImage(value, row) {
-    return '<img src="' + value + '" />';
+    return `<img src="${value}" />`
   }
 </script>
 ```
