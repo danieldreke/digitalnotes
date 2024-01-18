@@ -9,4 +9,6 @@ sudo cp keyboard-reset.sh /usr/lib/systemd/system-sleep/
 chmod a+x /usr/lib/systemd/system-sleep/keyboard-reset.sh
 ```
 
-Source: https://github.com/mistine/i8042-keyboard-fix-linux/tree/main
+- [github.com ~ i8042-keyboard-fix-linux](https://github.com/mistine/i8042-keyboard-fix-linux/tree/main)
+- [askubuntu.com ~ Ubuntu 20.04 - Keyboard not working on Lenovo Yoga Slim 7i Pro](https://askubuntu.com/questions/1352604/ubuntu-20-04-keyboard-not-working-on-lenovo-yoga-slim-7i-pro)
+- [linuxmint.com ~ No Keyboard on Lenovo laptop](https://www.linuxmint.com/rel_virginia.php)
