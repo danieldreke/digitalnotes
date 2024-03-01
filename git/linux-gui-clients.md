@@ -8,8 +8,10 @@
 
 ### Closed Source
 
-- [syntevo.com ~ SmartGit](https://www.syntevo.com/smartgit/): looks promising
 - [Sublime Merge](https://www.sublimemerge.com/): good, but limited features without license key
+- [syntevo.com ~ SmartGit](https://www.syntevo.com/smartgit/): looks promising
+  - Helpful simple feature of tree view with auto recognition of git repositories
+  - Unfortunately not free / it requires monthly/yearly subscription
 
 ### Free and Open Source: Nope
 
@@ -19,13 +21,13 @@
 - [giggle](https://wiki.gnome.org/Apps/giggle/): Too ugly
 - [git-cola](https://git-cola.github.io/): big nope, not intuitive, history graph wtf
 - [Git Extensions](https://gitextensions.github.io/): installation looks too complicated
-- [Bazaar Explorer with bzr-git](https://launchpad.net/bzr-git): 
+- [Bazaar Explorer with bzr-git](https://launchpad.net/bzr-git):
 	- Bazaar is not maintained anymore
 	- bzr-git is too complicated to install
 
 ### Closed Source: Nope
 
-- [Cycligent Git Tool](https://www.cycligent.com/git-tool): 
+- [Cycligent Git Tool](https://www.cycligent.com/git-tool):
 	- Needs license key given via email
 - [GitEye](http://www.giteyeapp.com/): Nope
   - Eclipse-Style
