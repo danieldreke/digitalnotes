@@ -26,3 +26,5 @@ sys.path.append('code')
 import foo
 foo.print_hello()
 ```
+
+[stackoverflow.com ~ How to import my own modules in Python](https://stackoverflow.com/a/9383295)
