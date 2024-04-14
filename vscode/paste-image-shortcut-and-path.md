@@ -14,6 +14,8 @@ To set paste path to subdir `images/` add to `settings.json`:
     },
 ```
 
+[github.com ~ Markdown: Paste image from clipboard](https://github.com/microsoft/vscode/issues/183560#issuecomment-1580616540)
+
 ## Extension: Paste Image
 
 `CTRL-ALT-V`
