@@ -1,7 +1,26 @@
-Open Keyboard Shortcuts via `CTRL-K` `CTRL-S`
+`CTRL-K` `CTRL-S` Open Keyboard Shortcuts
+
+## Markdown Files and Extension: Markdown All In One
+
+`CTRL-V`
+
+To set paste path to subdir `images/` add to `settings.json`: 
+1. `CTRL-SHIFT-P` Open console
+1. Type/Select `User Settings (JSON)`
+1. Add following lines:
+```json
+    "markdown.copyFiles.destination": {
+        "**/*": "${documentDirName}/images/"
+    },
+```
 
 ## Extension: Paste Image
 
 `CTRL-ALT-V`
+
+Edit in `settings.json`:
+```json
+    "pasteImage.path": "${currentFileDir}/images/"
+```
 
 [marketplace.visualstudio.com ~ Paste Image](https://marketplace.visualstudio.com/items?itemName=mushan.vscode-paste-image)
