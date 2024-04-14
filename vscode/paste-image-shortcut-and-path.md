@@ -1,3 +1,5 @@
+Open Keyboard Shortcuts via `CTRL-K` `CTRL-S`
+
 ## Extension: Paste Image
 
 `CTRL-ALT-V`
