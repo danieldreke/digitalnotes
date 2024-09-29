@@ -1,5 +1,6 @@
 - Remove outdated linux kernels
-  - `Update Manager` > `View` > `Linux Kernels` > Select/Queue installed "End of Life" kernel versions for removal
+  - `Update Manager` > `View` > `Linux Kernels`
+  - Remove installed "End of Life" kernel versions by queueing for removal
 - Find large files via `Disk Usage Analyzer`
 - Remove large Flatpak packages
   ```sh
