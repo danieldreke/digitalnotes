@@ -1,3 +1,0 @@
-- Remove outdated linux kernels
-  - Update Manager > View kernels > Select installed "End of Life" kernel versions
-- Flatpak

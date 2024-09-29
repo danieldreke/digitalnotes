@@ -1,0 +1,4 @@
+- Remove outdated linux kernels
+  - `Update Manager` > `View` > `Kernels` > Select installed "End of Life" kernel versions
+- Find large files via `Disk Usage Analyzer`
+- Reduce Flatpak dir size
