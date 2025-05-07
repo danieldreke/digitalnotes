@@ -11,3 +11,10 @@
   # Remove flatpak package by Application ID, for .e.g. net.mkiol.SpeechNote
   flatpak uninstall net.mkiol.SpeechNote
   ```
+- Remove/Clear docker build cache
+  ```sh
+  # Show build cache size
+  docker system df
+  # Remove/Clear build cache
+  docker builder prune
+  ``` 
